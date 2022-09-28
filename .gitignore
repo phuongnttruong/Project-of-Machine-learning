@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Digitraffic data:
+data/digitraffic/*.csv
