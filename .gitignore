@@ -130,3 +130,9 @@ dmypy.json
 
 # Digitraffic data:
 data/digitraffic/*.csv
+
+# CSV data
+*.csv
+
+# XML weather_data
+*.xml
