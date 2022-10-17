@@ -2,46 +2,16 @@
 
 import pandas as pd
 import numpy as np
-
-DATA_DIR = "../data/digitraffic"
-
-BIN_SIZE_MINUTES = 5
-
-# Digitraffic measurement points located in Helsinki
-LAM_IDS = [
-    "11", "101",
-    "109", "117", "119", "126", "131", "145", "146", "147", "148", "149", "151",
-    "152", "153", "154", "155", "164", "165", "172", "195", "196", "197",
-]
-YEARS = ["21"]
-
-COLUMN_NAMES = [
-    "location_id",
-    "year",
-    "day_number",
-    "hour",
-    "minute",
-    "second",
-    "sub_second",
-    "length",
-    "lane",
-    "direction",
-    "vehicle_type",
-    "speed",
-    "faulty",
-    "total_time",
-    "time_diff",
-    "queue_start"
-]
+from constants import *
 
 for lam_id in LAM_IDS:
     for year in YEARS:
-        with open(f"{DATA_DIR}/traffic_averages_{lam_id}.csv", "w") as year_file:
+        with open(f"{DIGITRAFFIC_DATA_DIR}/traffic_averages_{lam_id}.csv", "w") as year_file:
             for day in range(1, 366):
                 print(f"Processing: raw_traffic_data_{lam_id}_{year}_{day}.csv")
                 try:
                     df = pd.read_csv(
-                        f"{DATA_DIR}/raw_traffic_data_{lam_id}_{year}_{day}.csv",
+                        f"{DIGITRAFFIC_DATA_DIR}/raw_traffic_data_{lam_id}_{year}_{day}.csv",
                         delimiter=";",
                         dtype=float,
                         names=COLUMN_NAMES

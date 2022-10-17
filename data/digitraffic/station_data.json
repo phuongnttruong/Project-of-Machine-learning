@@ -1,0 +1,4804 @@
+{
+  "-2999": {
+    "coordinates": [
+      24.644986,
+      60.219873,
+      24.0
+    ],
+    "name": "vt1_Espoo_Keh\u00e4_III_Hki",
+    "municipality": "Espoo"
+  },
+  "-2998": {
+    "coordinates": [
+      24.637968,
+      60.220799,
+      30.0
+    ],
+    "name": "vt1_Espoo_Hirvisuo",
+    "municipality": "Espoo"
+  },
+  "-2997": {
+    "coordinates": [
+      24.65314,
+      60.21796,
+      22.0
+    ],
+    "name": "vt1_Espoo_Lommila_Tku",
+    "municipality": "Espoo"
+  },
+  "-2996": {
+    "coordinates": [
+      24.680173,
+      60.210226,
+      11.0
+    ],
+    "name": "vt1_Espoo_Kasavuori",
+    "municipality": "Espoo"
+  },
+  "-2995": {
+    "coordinates": [
+      24.729366,
+      60.200738,
+      19.0
+    ],
+    "name": "vt1_Espoo_Sep\u00e4nkyl\u00e4_LML",
+    "municipality": "Espoo"
+  },
+  "-2994": {
+    "coordinates": [
+      24.729366,
+      60.200738,
+      19.0
+    ],
+    "name": "vt1_Espoo_Kuurinniitty",
+    "municipality": "Espoo"
+  },
+  "-2993": {
+    "coordinates": [
+      24.695188,
+      60.205637,
+      34.0
+    ],
+    "name": "vt1_Espoo_Tuomarila",
+    "municipality": "Espoo"
+  },
+  "-2992": {
+    "coordinates": [
+      24.7548,
+      60.206148,
+      23.0
+    ],
+    "name": "vt1_Espoo_Nihtisilta_Tku",
+    "municipality": "Espoo"
+  },
+  "-2991": {
+    "coordinates": [
+      24.748936,
+      60.20533,
+      23.0
+    ],
+    "name": "vt1_Espoo_Stensg\u00e5rd",
+    "municipality": "Espoo"
+  },
+  "-2990": {
+    "coordinates": [
+      24.785342,
+      60.206608,
+      23.0
+    ],
+    "name": "vt1_Espoo_Turveradantie",
+    "municipality": "Espoo"
+  },
+  "-2989": {
+    "coordinates": [
+      24.776788,
+      60.205791,
+      23.0
+    ],
+    "name": "vt1_Espoo_Sinim\u00e4ki",
+    "municipality": "Espoo"
+  },
+  "-2988": {
+    "coordinates": [
+      24.770818,
+      60.206275,
+      23.0
+    ],
+    "name": "vt1_Espoo_Sinim\u00e4ki_Tku",
+    "municipality": "Espoo"
+  },
+  "-2987": {
+    "coordinates": [
+      24.766013,
+      60.206328,
+      23.0
+    ],
+    "name": "vt1_Espoo_Sinim\u00e4ki_2",
+    "municipality": "Espoo"
+  },
+  "-2986": {
+    "coordinates": [
+      24.760485,
+      60.206415,
+      16.0
+    ],
+    "name": "vt1_Espoo_Sinim\u00e4ki_3_Tku",
+    "municipality": "Espoo"
+  },
+  "-2985": {
+    "coordinates": [
+      24.811729,
+      60.208205,
+      16.0
+    ],
+    "name": "vt1_Espoo_S\u00e4terinmets\u00e4_Hki",
+    "municipality": "Espoo"
+  },
+  "-2984": {
+    "coordinates": [
+      24.811729,
+      60.208205,
+      16.0
+    ],
+    "name": "vt1_Espoo_S\u00e4terinmets\u00e4_2_Hki",
+    "municipality": "Espoo"
+  },
+  "-2983": {
+    "coordinates": [
+      24.803311,
+      60.208595,
+      25.0
+    ],
+    "name": "vt1_Espoo_Espoonsilta",
+    "municipality": "Espoo"
+  },
+  "-2982": {
+    "coordinates": [
+      24.82633,
+      60.208759,
+      3.0
+    ],
+    "name": "vt1_Espoo_Ruukinranta",
+    "municipality": "Espoo"
+  },
+  "-2981": {
+    "coordinates": [
+      24.863495,
+      60.20233,
+      3.0
+    ],
+    "name": "vt1_Helsinki_Munkkiniemi_Hki",
+    "municipality": "Helsinki"
+  },
+  "-2980": {
+    "coordinates": [
+      24.85424,
+      60.203681,
+      2.0
+    ],
+    "name": "vt1_Helsinki_Lankiniemi_Hki",
+    "municipality": "Helsinki"
+  },
+  "-2979": {
+    "coordinates": [
+      24.8102,
+      60.350404,
+      33.0
+    ],
+    "name": "vt3_Kotam\u00e4ki_HML",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2978": {
+    "coordinates": [
+      24.808636,
+      60.358309,
+      34.0
+    ],
+    "name": "vt3_Per\u00e4j\u00e4nkulma_Hki",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2977": {
+    "coordinates": [
+      24.808269,
+      60.363513,
+      36.0
+    ],
+    "name": "vt3_Per\u00e4j\u00e4nkulma2_Hki",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2976": {
+    "coordinates": [
+      24.814375,
+      60.383356,
+      55.0
+    ],
+    "name": "vt3_M\u00e4yr\u00e4nkallio",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2975": {
+    "coordinates": [
+      24.813724,
+      60.393333,
+      42.0
+    ],
+    "name": "vt3_Yli-Hemmi",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2974": {
+    "coordinates": [
+      24.844035,
+      60.452058,
+      57.0
+    ],
+    "name": "vt3_Nurmij\u00e4rvi_Hki",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2973": {
+    "coordinates": [
+      24.808236,
+      60.35374,
+      57.0
+    ],
+    "name": "vt3_Per\u00e4j\u00e4_Hki",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "-2972": {
+    "coordinates": [
+      24.994641,
+      60.185804,
+      0.0
+    ],
+    "name": "st170_Kulosaari_LML",
+    "municipality": "Helsinki"
+  },
+  "-2399": {
+    "coordinates": [
+      27.823412,
+      61.898973,
+      0.0
+    ],
+    "name": "vt14_Juva_Flex1",
+    "municipality": "Juva"
+  },
+  "-2398": {
+    "coordinates": [
+      27.823508,
+      61.899017,
+      0.0
+    ],
+    "name": "vt14_Juva_Flex2",
+    "municipality": "Juva"
+  },
+  "-2397": {
+    "coordinates": [
+      27.823605,
+      61.899062,
+      0.0
+    ],
+    "name": "vt14_Juva_Flex3",
+    "municipality": "Juva"
+  },
+  "-1799": {
+    "coordinates": [
+      25.508377,
+      65.019337,
+      2.0
+    ],
+    "name": "vt4_Oulu_Inti\u00f6_LML",
+    "municipality": "Helsinki"
+  },
+  "-1798": {
+    "coordinates": [
+      25.716369,
+      65.108883
+    ],
+    "name": "Vt20_Oulu_Honkimaa_Flex",
+    "municipality": "Oulu"
+  },
+  "-1797": {
+    "coordinates": [
+      25.505512,
+      65.007569
+    ],
+    "name": "Vt4_Oulu_Kontinkangas_Flex",
+    "municipality": "Oulu"
+  },
+  "-1599": {
+    "coordinates": [
+      23.754484,
+      67.311012
+    ],
+    "name": "st943_Kolari_T_Flex",
+    "municipality": "Kolari"
+  },
+  "-1598": {
+    "coordinates": [
+      24.259109,
+      67.455527
+    ],
+    "name": "Kt80_Kolari_Yll\u00e4sj\u00e4rvi_Flex",
+    "municipality": "Kolari"
+  },
+  "1": {
+    "coordinates": [
+      25.689529,
+      60.417002,
+      0.0
+    ],
+    "name": "vt7_Rita",
+    "municipality": "Porvoo"
+  },
+  "3": {
+    "coordinates": [
+      24.664459,
+      60.153502,
+      0.0
+    ],
+    "name": "kt51_Kivenlahti",
+    "municipality": "Espoo"
+  },
+  "4": {
+    "coordinates": [
+      24.849501,
+      60.3,
+      0.0
+    ],
+    "name": "vt3_Kivist\u00f6",
+    "municipality": "Vantaa"
+  },
+  "5": {
+    "coordinates": [
+      24.808791,
+      60.354656,
+      0.0
+    ],
+    "name": "vt3_Klaukkalantie",
+    "municipality": "Vantaa"
+  },
+  "6": {
+    "coordinates": [
+      24.746882,
+      60.211601,
+      0.0
+    ],
+    "name": "st102_Hiidenkallio",
+    "municipality": "Espoo"
+  },
+  "7": {
+    "coordinates": [
+      25.093679,
+      60.285738,
+      0.0
+    ],
+    "name": "vt4_Vantaa_Honkanummi",
+    "municipality": "Vantaa"
+  },
+  "8": {
+    "coordinates": [
+      25.115766,
+      60.362098,
+      0.0
+    ],
+    "name": "vt4_Vantaa_Lepp\u00e4korpi",
+    "municipality": "Vantaa"
+  },
+  "9": {
+    "coordinates": [
+      24.997117,
+      60.320603,
+      0.0
+    ],
+    "name": "kt45_Vantaa_Ilola",
+    "municipality": "Vantaa"
+  },
+  "10": {
+    "coordinates": [
+      24.807454,
+      60.189783,
+      0.0
+    ],
+    "name": "st101_Espoo_Laajalahti",
+    "municipality": "Espoo"
+  },
+  "11": {
+    "coordinates": [
+      25.082548,
+      60.219097,
+      0.0
+    ],
+    "name": "st101_Helsinki_Vartiokyl\u00e4",
+    "municipality": "Helsinki"
+  },
+  "12": {
+    "coordinates": [
+      24.633121,
+      60.214649,
+      0.0
+    ],
+    "name": "kt50_Espoo_Muurala",
+    "municipality": "Espoo"
+  },
+  "13": {
+    "coordinates": [
+      24.862004,
+      60.288139,
+      0.0
+    ],
+    "name": "vt3_Vantaa_Martinkyl\u00e4ntie",
+    "municipality": "Vantaa"
+  },
+  "98": {
+    "coordinates": [
+      24.737301,
+      60.163857,
+      0.0
+    ],
+    "name": "kt51_Espoo_Piispansilta",
+    "municipality": "Espoo"
+  },
+  "99": {
+    "coordinates": [
+      25.13824,
+      60.482986,
+      0.0
+    ],
+    "name": "vt4_J\u00e4rvenp\u00e4\u00e4_Isokyt\u00f6",
+    "municipality": "J\u00e4rvenp\u00e4\u00e4"
+  },
+  "101": {
+    "coordinates": [
+      24.848744,
+      60.164977,
+      0.0
+    ],
+    "name": "kt51_Hanasaari",
+    "municipality": "Helsinki"
+  },
+  "102": {
+    "coordinates": [
+      24.639432,
+      60.156229,
+      0.0
+    ],
+    "name": "kt51_Soukka",
+    "municipality": "Espoo"
+  },
+  "103": {
+    "coordinates": [
+      24.843448,
+      60.206155,
+      0.0
+    ],
+    "name": "vt1_Espoo_Huopalahti",
+    "municipality": "Espoo"
+  },
+  "104": {
+    "coordinates": [
+      24.347814,
+      60.294137,
+      0.0
+    ],
+    "name": "vt1_Paloj\u00e4rvi",
+    "municipality": "Vihti"
+  },
+  "105": {
+    "coordinates": [
+      24.134285,
+      60.370633,
+      0.0
+    ],
+    "name": "st110_Hiidenvesi",
+    "municipality": "Lohja"
+  },
+  "106": {
+    "coordinates": [
+      24.338949,
+      60.323471,
+      0.0
+    ],
+    "name": "vt2_Huhmari",
+    "municipality": "Vihti"
+  },
+  "107": {
+    "coordinates": [
+      24.874943,
+      60.269691,
+      0.0
+    ],
+    "name": "vt3_Kaivoksela",
+    "municipality": "Vantaa"
+  },
+  "108": {
+    "coordinates": [
+      24.85174,
+      60.496427,
+      0.0
+    ],
+    "name": "vt3_Karhunkorpi",
+    "municipality": "Nurmij\u00e4rvi"
+  },
+  "109": {
+    "coordinates": [
+      25.06756,
+      60.254734,
+      0.0
+    ],
+    "name": "vt4_Jakom\u00e4ki",
+    "municipality": "Helsinki"
+  },
+  "110": {
+    "coordinates": [
+      25.23404,
+      60.591375,
+      0.0
+    ],
+    "name": "vt4_M\u00e4nts\u00e4l\u00e4_Hakkari",
+    "municipality": "M\u00e4nts\u00e4l\u00e4"
+  },
+  "111": {
+    "coordinates": [
+      26.049543,
+      60.557843,
+      0.0
+    ],
+    "name": "vt6_Loviisa_Liljendal",
+    "municipality": "Loviisa"
+  },
+  "112": {
+    "coordinates": [
+      25.528011,
+      60.355937,
+      0.0
+    ],
+    "name": "vt7_Treksil\u00e4",
+    "municipality": "Porvoo"
+  },
+  "114": {
+    "coordinates": [
+      24.019133,
+      60.203684,
+      0.0
+    ],
+    "name": "vt25_Virkkala",
+    "municipality": "Lohja"
+  },
+  "115": {
+    "coordinates": [
+      25.581225,
+      60.413602,
+      0.0
+    ],
+    "name": "kt55_Saksala",
+    "municipality": "Porvoo"
+  },
+  "116": {
+    "coordinates": [
+      24.816295,
+      60.213364,
+      0.0
+    ],
+    "name": "st101_Lepp\u00e4vaara",
+    "municipality": "Espoo"
+  },
+  "117": {
+    "coordinates": [
+      24.873178,
+      60.202989,
+      0.0
+    ],
+    "name": "vt1_Munkkiniemi",
+    "municipality": "Helsinki"
+  },
+  "118": {
+    "coordinates": [
+      24.82517,
+      60.171482,
+      0.0
+    ],
+    "name": "st101_Espoo_Keilaniemi",
+    "municipality": "Espoo"
+  },
+  "119": {
+    "coordinates": [
+      25.166377,
+      60.261902,
+      0.0
+    ],
+    "name": "vt7_Helsinki_It\u00e4salmi",
+    "municipality": "Helsinki"
+  },
+  "121": {
+    "coordinates": [
+      26.02344,
+      60.55198,
+      0.0
+    ],
+    "name": "yt11888_Liljendal2",
+    "municipality": "Loviisa"
+  },
+  "122": {
+    "coordinates": [
+      24.150133,
+      60.573588,
+      0.0
+    ],
+    "name": "vt2_Karkkila",
+    "municipality": "Karkkila"
+  },
+  "123": {
+    "coordinates": [
+      24.830899,
+      60.251886,
+      0.0
+    ],
+    "name": "st120_P\u00e4hkin\u00e4rinne",
+    "municipality": "Espoo"
+  },
+  "124": {
+    "coordinates": [
+      23.513729,
+      59.999169,
+      0.0
+    ],
+    "name": "vt25_Dragsvik",
+    "municipality": "Raasepori"
+  },
+  "125": {
+    "coordinates": [
+      24.60793,
+      60.203588,
+      0.0
+    ],
+    "name": "kt50_Bemb\u00f6le",
+    "municipality": "Espoo"
+  },
+  "126": {
+    "coordinates": [
+      24.84139,
+      60.230059,
+      0.0
+    ],
+    "name": "st101_Konala",
+    "municipality": "Helsinki"
+  },
+  "127": {
+    "coordinates": [
+      24.987002,
+      60.434238,
+      0.0
+    ],
+    "name": "kt45_Tuusula_Rusutj\u00e4rvi",
+    "municipality": "Tuusula"
+  },
+  "128": {
+    "coordinates": [
+      24.866698,
+      60.296065,
+      0.0
+    ],
+    "name": "kt50_Voutila",
+    "municipality": "Vantaa"
+  },
+  "129": {
+    "coordinates": [
+      24.527557,
+      60.458688,
+      0.0
+    ],
+    "name": "vt25_Selki",
+    "municipality": "Vihti"
+  },
+  "130": {
+    "coordinates": [
+      25.0923,
+      60.617152,
+      0.0
+    ],
+    "name": "vt25_Keravanj\u00e4rvi",
+    "municipality": "M\u00e4nts\u00e4l\u00e4"
+  },
+  "131": {
+    "coordinates": [
+      24.954101,
+      60.256725,
+      0.0
+    ],
+    "name": "kt45_Helsinki_Tuomarinkartano",
+    "municipality": "Helsinki"
+  },
+  "133": {
+    "coordinates": [
+      24.833017,
+      60.58102,
+      0.0
+    ],
+    "name": "vt25_Noppo",
+    "municipality": "Hyvink\u00e4\u00e4"
+  },
+  "134": {
+    "coordinates": [
+      24.075244,
+      60.060438,
+      0.0
+    ],
+    "name": "kt51_Inkoo",
+    "municipality": "Inkoo"
+  },
+  "135": {
+    "coordinates": [
+      25.735009,
+      60.453244,
+      0.0
+    ],
+    "name": "st170_Ilola",
+    "municipality": "Porvoo"
+  },
+  "136": {
+    "coordinates": [
+      25.191554,
+      60.545894,
+      0.0
+    ],
+    "name": "st140_Arola",
+    "municipality": "M\u00e4nts\u00e4l\u00e4"
+  },
+  "137": {
+    "coordinates": [
+      24.825444,
+      60.326456,
+      0.0
+    ],
+    "name": "vt3_Vantaa_Keimola",
+    "municipality": "Vantaa"
+  },
+  "138": {
+    "coordinates": [
+      24.745301,
+      60.305288,
+      0.0
+    ],
+    "name": "st120_Odilampi",
+    "municipality": "Espoo"
+  },
+  "139": {
+    "coordinates": [
+      24.596879,
+      60.228092,
+      0.0
+    ],
+    "name": "vt1_Nupuri",
+    "municipality": "Espoo"
+  },
+  "140": {
+    "coordinates": [
+      24.695584,
+      60.238826,
+      0.0
+    ],
+    "name": "kt50_J\u00e4rvenper\u00e4",
+    "municipality": "Espoo"
+  },
+  "141": {
+    "coordinates": [
+      25.411283,
+      60.31517,
+      0.0
+    ],
+    "name": "vt7_Box",
+    "municipality": "Sipoo"
+  },
+  "142": {
+    "coordinates": [
+      25.448445,
+      60.736118,
+      0.0
+    ],
+    "name": "vt4_Levanto",
+    "municipality": "M\u00e4nts\u00e4l\u00e4"
+  },
+  "143": {
+    "coordinates": [
+      24.552767,
+      60.141217,
+      0.0
+    ],
+    "name": "kt51_Sundsberg",
+    "municipality": "Kirkkonummi"
+  },
+  "144": {
+    "coordinates": [
+      24.794647,
+      60.207796,
+      0.0
+    ],
+    "name": "vt1_Friisinm\u00e4ki",
+    "municipality": "Espoo"
+  },
+  "145": {
+    "coordinates": [
+      24.879279,
+      60.234542,
+      0.0
+    ],
+    "name": "st101_Kannelm\u00e4ki",
+    "municipality": "Helsinki"
+  },
+  "146": {
+    "coordinates": [
+      24.919151,
+      60.239547,
+      0.0
+    ],
+    "name": "st101_L\u00e4nsi-Pakila",
+    "municipality": "Helsinki"
+  },
+  "147": {
+    "coordinates": [
+      24.93714,
+      60.241903,
+      0.0
+    ],
+    "name": "st101_Pakila",
+    "municipality": "Helsinki"
+  },
+  "148": {
+    "coordinates": [
+      24.98135,
+      60.241568,
+      0.0
+    ],
+    "name": "st101_Pukinm\u00e4ki",
+    "municipality": "Helsinki"
+  },
+  "149": {
+    "coordinates": [
+      25.029364,
+      60.241347,
+      0.0
+    ],
+    "name": "st101_Malmi",
+    "municipality": "Helsinki"
+  },
+  "150": {
+    "coordinates": [
+      24.973523,
+      60.290175,
+      0.0
+    ],
+    "name": "kt50_Vantaanportti",
+    "municipality": "Vantaa"
+  },
+  "151": {
+    "coordinates": [
+      24.878373,
+      60.224261,
+      0.0
+    ],
+    "name": "st120_Pit\u00e4j\u00e4nm\u00e4ki",
+    "municipality": "Helsinki"
+  },
+  "152": {
+    "coordinates": [
+      24.907502,
+      60.226466,
+      0.0
+    ],
+    "name": "vt3_Pirkkola",
+    "municipality": "Helsinki"
+  },
+  "153": {
+    "coordinates": [
+      24.945214,
+      60.224056,
+      0.0
+    ],
+    "name": "kt45_Oulunkyl\u00e4",
+    "municipality": "Helsinki"
+  },
+  "154": {
+    "coordinates": [
+      24.987709,
+      60.222722,
+      0.0
+    ],
+    "name": "vt4_Viikinm\u00e4ki",
+    "municipality": "Helsinki"
+  },
+  "155": {
+    "coordinates": [
+      24.994641,
+      60.185804,
+      0.0
+    ],
+    "name": "st170_Kulosaari",
+    "municipality": "Helsinki"
+  },
+  "156": {
+    "coordinates": [
+      24.492014,
+      60.127648,
+      0.0
+    ],
+    "name": "kt51_Jorvas",
+    "municipality": "Kirkkonummi"
+  },
+  "158": {
+    "coordinates": [
+      25.99756,
+      60.487317,
+      0.0
+    ],
+    "name": "st170_Hagab\u00f6le",
+    "municipality": "Loviisa"
+  },
+  "159": {
+    "coordinates": [
+      24.814062,
+      60.277263,
+      0.0
+    ],
+    "name": "kt50_Petikko",
+    "municipality": "Vantaa"
+  },
+  "160": {
+    "coordinates": [
+      25.046374,
+      60.280605,
+      0.0
+    ],
+    "name": "kt50_Heidehof",
+    "municipality": "Vantaa"
+  },
+  "162": {
+    "coordinates": [
+      24.755706,
+      60.175982,
+      0.0
+    ],
+    "name": "st102_Olarinluoma",
+    "municipality": "Espoo"
+  },
+  "163": {
+    "coordinates": [
+      24.746484,
+      60.190826,
+      0.0
+    ],
+    "name": "st102_Kokinkyl\u00e4",
+    "municipality": "Espoo"
+  },
+  "164": {
+    "coordinates": [
+      24.901549,
+      60.211965,
+      0.0
+    ],
+    "name": "vt3_Kivihaka",
+    "municipality": "Helsinki"
+  },
+  "165": {
+    "coordinates": [
+      24.877246,
+      60.259821,
+      0.0
+    ],
+    "name": "vt3_Hakuninmaa",
+    "municipality": "Helsinki"
+  },
+  "167": {
+    "coordinates": [
+      24.740568,
+      60.203158,
+      0.0
+    ],
+    "name": "vt1_Espoo_Sep\u00e4nkyl\u00e4",
+    "municipality": "Espoo"
+  },
+  "168": {
+    "coordinates": [
+      24.776513,
+      60.27328,
+      0.0
+    ],
+    "name": "kt50_Askisto",
+    "municipality": "Vantaa"
+  },
+  "169": {
+    "coordinates": [
+      24.94332,
+      60.295746,
+      0.0
+    ],
+    "name": "kt50_Pakkala",
+    "municipality": "Vantaa"
+  },
+  "172": {
+    "coordinates": [
+      25.245947,
+      60.274724,
+      0.0
+    ],
+    "name": "vt7_Helsinki_B\u00e4ckn\u00e4s",
+    "municipality": "Helsinki"
+  },
+  "175": {
+    "coordinates": [
+      24.661165,
+      60.21556,
+      0.0
+    ],
+    "name": "vt1_Espoo_Lommila",
+    "municipality": "Espoo"
+  },
+  "176": {
+    "coordinates": [
+      25.317951,
+      60.280371,
+      0.0
+    ],
+    "name": "vt7_Sipoo_Sipoonlahti",
+    "municipality": "Sipoo"
+  },
+  "177": {
+    "coordinates": [
+      25.341034,
+      60.288833,
+      0.0
+    ],
+    "name": "vt7_Sipoo_Kallback",
+    "municipality": "Sipoo"
+  },
+  "178": {
+    "coordinates": [
+      25.450135,
+      60.322813,
+      0.0
+    ],
+    "name": "vt7_Sipoo_Kulloo",
+    "municipality": "Porvoo"
+  },
+  "179": {
+    "coordinates": [
+      25.111558,
+      60.254263,
+      0.0
+    ],
+    "name": "vt7_Fazerila",
+    "municipality": "Vantaa"
+  },
+  "182": {
+    "coordinates": [
+      25.098008,
+      60.271322,
+      0.0
+    ],
+    "name": "kt50_Hakunila",
+    "municipality": "Vantaa"
+  },
+  "183": {
+    "coordinates": [
+      24.714007,
+      60.252097,
+      0.0
+    ],
+    "name": "kt50_J\u00e4rvenper\u00e42",
+    "municipality": "Espoo"
+  },
+  "184": {
+    "coordinates": [
+      25.749595,
+      60.42567,
+      0.0
+    ],
+    "name": "vt7_Porvoo_Uusikrouvi",
+    "municipality": "Porvoo"
+  },
+  "185": {
+    "coordinates": [
+      25.840384,
+      60.455621,
+      0.0
+    ],
+    "name": "vt7_Porvoo_Lohij\u00e4rvi",
+    "municipality": "Porvoo"
+  },
+  "186": {
+    "coordinates": [
+      25.913508,
+      60.490404,
+      0.0
+    ],
+    "name": "vt7_Loviisa_Gammelbyviken",
+    "municipality": "Loviisa"
+  },
+  "187": {
+    "coordinates": [
+      26.118634,
+      60.473096,
+      0.0
+    ],
+    "name": "vt7_Loviisa_K\u00e4rrbacka",
+    "municipality": "Loviisa"
+  },
+  "188": {
+    "coordinates": [
+      26.212552,
+      60.465378,
+      0.0
+    ],
+    "name": "vt7_Loviisa",
+    "municipality": "Loviisa"
+  },
+  "189": {
+    "coordinates": [
+      26.278494,
+      60.479183,
+      0.0
+    ],
+    "name": "vt7_Loviisa_It\u00e4",
+    "municipality": "Loviisa"
+  },
+  "190": {
+    "coordinates": [
+      25.598321,
+      60.380907,
+      0.0
+    ],
+    "name": "vt7_Porvoo_Ernestas",
+    "municipality": "Porvoo"
+  },
+  "191": {
+    "coordinates": [
+      24.50065,
+      60.257719,
+      0.0
+    ],
+    "name": "vt1_Kolmiranta",
+    "municipality": "Kirkkonummi"
+  },
+  "192": {
+    "coordinates": [
+      24.416719,
+      60.287221,
+      0.0
+    ],
+    "name": "vt1_Veikkola",
+    "municipality": "Kirkkonummi"
+  },
+  "193": {
+    "coordinates": [
+      24.253194,
+      60.302294,
+      0.0
+    ],
+    "name": "vt1_Hevoskallio",
+    "municipality": "Lohja"
+  },
+  "194": {
+    "coordinates": [
+      24.158551,
+      60.28803,
+      0.0
+    ],
+    "name": "vt1_Lehmij\u00e4rvi",
+    "municipality": "Lohja"
+  },
+  "195": {
+    "coordinates": [
+      25.153666,
+      60.241105,
+      0.0
+    ],
+    "name": "st103_Satamatie",
+    "municipality": "Helsinki"
+  },
+  "196": {
+    "coordinates": [
+      25.158891,
+      60.220754,
+      0.0
+    ],
+    "name": "Niinisaarentie",
+    "municipality": "Helsinki"
+  },
+  "197": {
+    "coordinates": [
+      24.908478,
+      60.208329,
+      0.0
+    ],
+    "name": "st100_Kivihaan_tunneli",
+    "municipality": "Helsinki"
+  },
+  "198": {
+    "coordinates": [
+      25.631168,
+      60.404355,
+      0.0
+    ],
+    "name": "vt7_Porvoo",
+    "municipality": "Porvoo"
+  },
+  "201": {
+    "coordinates": [
+      23.357739,
+      60.368037,
+      0.0
+    ],
+    "name": "st110_Muurla_Salo",
+    "municipality": "Salo"
+  },
+  "203": {
+    "coordinates": [
+      23.42946,
+      61.58514,
+      0.0
+    ],
+    "name": "vt3_H\u00e4meenkyr\u00f6",
+    "municipality": "H\u00e4meenkyr\u00f6"
+  },
+  "204": {
+    "coordinates": [
+      22.975875,
+      61.912381,
+      0.0
+    ],
+    "name": "vt3_Ikaalinen",
+    "municipality": "Ikaalinen"
+  },
+  "205": {
+    "coordinates": [
+      22.159199,
+      60.503039,
+      0.0
+    ],
+    "name": "vt8_Raisio",
+    "municipality": "Raisio"
+  },
+  "206": {
+    "coordinates": [
+      21.586275,
+      60.986934,
+      0.0
+    ],
+    "name": "vt8_Pyh\u00e4ranta",
+    "municipality": "Pyh\u00e4ranta"
+  },
+  "207": {
+    "coordinates": [
+      21.809442,
+      61.544747,
+      0.0
+    ],
+    "name": "vt8_Pori",
+    "municipality": "Pori"
+  },
+  "208": {
+    "coordinates": [
+      22.468601,
+      60.593513,
+      0.0
+    ],
+    "name": "vt9_Aura",
+    "municipality": "Lieto"
+  },
+  "209": {
+    "coordinates": [
+      22.923377,
+      60.614918,
+      0.0
+    ],
+    "name": "vt10_Marttila",
+    "municipality": "Marttila"
+  },
+  "210": {
+    "coordinates": [
+      22.838086,
+      61.315328,
+      0.0
+    ],
+    "name": "vt12_Vammala",
+    "municipality": "Sastamala"
+  },
+  "211": {
+    "coordinates": [
+      21.728834,
+      61.112461,
+      0.0
+    ],
+    "name": "vt12_Lappi_tl",
+    "municipality": "Rauma"
+  },
+  "221": {
+    "coordinates": [
+      21.987405,
+      61.366166,
+      0.0
+    ],
+    "name": "vt2_Nakkila",
+    "municipality": "Nakkila"
+  },
+  "223": {
+    "coordinates": [
+      21.627913,
+      61.170103,
+      0.0
+    ],
+    "name": "vt8_Eurajoki",
+    "municipality": "Eurajoki"
+  },
+  "224": {
+    "coordinates": [
+      22.347332,
+      61.466795,
+      0.0
+    ],
+    "name": "vt11_Kullaa",
+    "municipality": "Ulvila"
+  },
+  "225": {
+    "coordinates": [
+      22.179276,
+      60.243432,
+      0.0
+    ],
+    "name": "st180_Parainen",
+    "municipality": "Parainen"
+  },
+  "226": {
+    "coordinates": [
+      22.245398,
+      61.789045,
+      0.0
+    ],
+    "name": "vt23_Kankaanp\u00e4\u00e4",
+    "municipality": "Kankaanp\u00e4\u00e4"
+  },
+  "227": {
+    "coordinates": [
+      22.516331,
+      60.446988,
+      0.0
+    ],
+    "name": "vt1_Kaarina_Kirism\u00e4ki",
+    "municipality": "Kaarina"
+  },
+  "230": {
+    "coordinates": [
+      22.426255,
+      60.497675,
+      0.0
+    ],
+    "name": "vt10_Lieto",
+    "municipality": "Lieto"
+  },
+  "231": {
+    "coordinates": [
+      22.085889,
+      60.469166,
+      0.0
+    ],
+    "name": "kt40_Vanto",
+    "municipality": "Raisio"
+  },
+  "232": {
+    "coordinates": [
+      21.821122,
+      61.45647,
+      0.0
+    ],
+    "name": "vt2_Porin_lentokent",
+    "municipality": "Pori"
+  },
+  "233": {
+    "coordinates": [
+      22.217791,
+      60.494327,
+      0.0
+    ],
+    "name": "kt40_Hauninen",
+    "municipality": "Raisio"
+  },
+  "234": {
+    "coordinates": [
+      22.316174,
+      60.489531,
+      0.0
+    ],
+    "name": "kt40_Oriketo",
+    "municipality": "Turku"
+  },
+  "235": {
+    "coordinates": [
+      22.304526,
+      60.446488,
+      0.0
+    ],
+    "name": "vt1_Turku_Kupittaa",
+    "municipality": "Turku"
+  },
+  "237": {
+    "coordinates": [
+      22.334731,
+      60.424922,
+      0.0
+    ],
+    "name": "vt1_Turku_Kurkela_l\u00e4nsi",
+    "municipality": "Turku"
+  },
+  "238": {
+    "coordinates": [
+      22.364204,
+      60.421987,
+      0.0
+    ],
+    "name": "vt1_Kaarina_Kurkela_it\u00e4",
+    "municipality": "Kaarina"
+  },
+  "239": {
+    "coordinates": [
+      22.402097,
+      60.424022,
+      0.0
+    ],
+    "name": "vt1_Kaarina",
+    "municipality": "Kaarina"
+  },
+  "240": {
+    "coordinates": [
+      22.475811,
+      60.440193,
+      0.0
+    ],
+    "name": "vt1_Kaarina_Piikki\u00f6",
+    "municipality": "Kaarina"
+  },
+  "242": {
+    "coordinates": [
+      22.656045,
+      60.430131,
+      0.0
+    ],
+    "name": "vt1_Paimio_Paimionjoki",
+    "municipality": "Paimio"
+  },
+  "243": {
+    "coordinates": [
+      22.68301,
+      60.423384,
+      0.0
+    ],
+    "name": "vt1_Paimio_Valkoja",
+    "municipality": "Paimio"
+  },
+  "244": {
+    "coordinates": [
+      22.745452,
+      60.425558,
+      0.0
+    ],
+    "name": "vt1_Paimio_Vista",
+    "municipality": "Paimio"
+  },
+  "245": {
+    "coordinates": [
+      22.969131,
+      60.435067,
+      0.0
+    ],
+    "name": "vt1_Salo_Hajala",
+    "municipality": "Salo"
+  },
+  "247": {
+    "coordinates": [
+      23.148232,
+      60.418888,
+      0.0
+    ],
+    "name": "vt1_Salo_Isokyl\u00e4_l\u00e4nsi",
+    "municipality": "Salo"
+  },
+  "248": {
+    "coordinates": [
+      23.292028,
+      60.38888,
+      0.0
+    ],
+    "name": "vt1_Salo_Muurla",
+    "municipality": "Salo"
+  },
+  "249": {
+    "coordinates": [
+      22.186943,
+      60.477609,
+      0.0
+    ],
+    "name": "vt8_Ihala",
+    "municipality": "Raisio"
+  },
+  "250": {
+    "coordinates": [
+      22.090035,
+      60.583131,
+      0.0
+    ],
+    "name": "vt8_Masku",
+    "municipality": "Masku"
+  },
+  "251": {
+    "coordinates": [
+      22.142869,
+      60.47133,
+      0.0
+    ],
+    "name": "kt40_Krookila",
+    "municipality": "Raisio"
+  },
+  "252": {
+    "coordinates": [
+      22.18283,
+      60.460639,
+      0.0
+    ],
+    "name": "st185_Artukainen",
+    "municipality": "Turku"
+  },
+  "254": {
+    "coordinates": [
+      22.358665,
+      60.367642,
+      0.0
+    ],
+    "name": "st180_Kuusisto",
+    "municipality": "Kaarina"
+  },
+  "255": {
+    "coordinates": [
+      22.043474,
+      60.193727,
+      0.0
+    ],
+    "name": "st180_Parainen_Simonby",
+    "municipality": "Parainen"
+  },
+  "257": {
+    "coordinates": [
+      22.202798,
+      60.463565,
+      0.0
+    ],
+    "name": "yt1851_Turku_H\u00e4rk\u00e4m\u00e4ki",
+    "municipality": "Turku"
+  },
+  "302": {
+    "coordinates": [
+      27.128804,
+      60.572097,
+      0.0
+    ],
+    "name": "vt7_Hamina_Lankamalmi",
+    "municipality": "Hamina"
+  },
+  "303": {
+    "coordinates": [
+      27.14252,
+      60.579562,
+      0.0
+    ],
+    "name": "vt7_Hamina_Ruissalo",
+    "municipality": "Hamina"
+  },
+  "304": {
+    "coordinates": [
+      27.16234,
+      60.590888,
+      0.0
+    ],
+    "name": "vt7_Hamina_Husula",
+    "municipality": "Hamina"
+  },
+  "305": {
+    "coordinates": [
+      27.255259,
+      60.595672,
+      0.0
+    ],
+    "name": "vt7_Hamina_Kolsila_it\u00e4",
+    "municipality": "Hamina"
+  },
+  "306": {
+    "coordinates": [
+      28.520228,
+      60.95499,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Nuijamaa_Uusi",
+    "municipality": "Lappeenranta"
+  },
+  "307": {
+    "coordinates": [
+      27.676303,
+      60.608743,
+      0.0
+    ],
+    "name": "vt7_Virolahti_Virojoki",
+    "municipality": "Virolahti"
+  },
+  "308": {
+    "coordinates": [
+      27.475294,
+      60.596463,
+      0.0
+    ],
+    "name": "vt7_Virolahti_Ravijoki",
+    "municipality": "Virolahti"
+  },
+  "309": {
+    "coordinates": [
+      27.825572,
+      60.605247,
+      22.0
+    ],
+    "name": "vt7_Virolahti_Vaalimaa",
+    "municipality": "Virolahti"
+  },
+  "310": {
+    "coordinates": [
+      27.796472,
+      60.613172,
+      25.0
+    ],
+    "name": "vt7_Virolahti_Vaalimaan_tunneli_it\u00e4",
+    "municipality": "Virolahti"
+  },
+  "311": {
+    "coordinates": [
+      28.510341,
+      60.961064,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Nuijamaa_tulli",
+    "municipality": "Lappeenranta"
+  },
+  "401": {
+    "coordinates": [
+      23.765753,
+      61.408751,
+      0.0
+    ],
+    "name": "vt3_Lemp\u00e4\u00e4l\u00e4_S\u00e4\u00e4ksj\u00e4rvi",
+    "municipality": "Lemp\u00e4\u00e4l\u00e4"
+  },
+  "402": {
+    "coordinates": [
+      24.057586,
+      61.149148,
+      0.0
+    ],
+    "name": "st130_Jutikkala",
+    "municipality": "Valkeakoski"
+  },
+  "403": {
+    "coordinates": [
+      23.288468,
+      60.967187,
+      0.0
+    ],
+    "name": "vt2_Humppila",
+    "municipality": "Humppila"
+  },
+  "404": {
+    "coordinates": [
+      24.071581,
+      61.549823,
+      0.0
+    ],
+    "name": "vt9_Kangasala_Suinula",
+    "municipality": "Kangasala"
+  },
+  "405": {
+    "coordinates": [
+      24.666447,
+      61.047286,
+      0.0
+    ],
+    "name": "vt10_H\u00e4meenlinna",
+    "municipality": "H\u00e4meenlinna"
+  },
+  "406": {
+    "coordinates": [
+      23.368056,
+      61.503859,
+      0.0
+    ],
+    "name": "vt11_Nokia_Linnavuori",
+    "municipality": "Nokia"
+  },
+  "407": {
+    "coordinates": [
+      25.282269,
+      61.00463,
+      0.0
+    ],
+    "name": "vt12_Hollola",
+    "municipality": "Hollola"
+  },
+  "408": {
+    "coordinates": [
+      24.976368,
+      60.793106,
+      0.0
+    ],
+    "name": "kt54_Hausj\u00e4rvi",
+    "municipality": "Hausj\u00e4rvi"
+  },
+  "409": {
+    "coordinates": [
+      24.027612,
+      62.01343,
+      0.0
+    ],
+    "name": "kt66_Ruovesi",
+    "municipality": "Ruovesi"
+  },
+  "421": {
+    "coordinates": [
+      23.607493,
+      61.54414,
+      0.0
+    ],
+    "name": "kt65_Yl\u00f6j\u00e4rvi",
+    "municipality": "Yl\u00f6j\u00e4rvi"
+  },
+  "422": {
+    "coordinates": [
+      23.738401,
+      61.241797,
+      0.0
+    ],
+    "name": "st190_Viiala",
+    "municipality": "Akaa"
+  },
+  "424": {
+    "coordinates": [
+      25.613012,
+      60.907742,
+      0.0
+    ],
+    "name": "vt4_Renkom\u00e4ki",
+    "municipality": "Hollola"
+  },
+  "425": {
+    "coordinates": [
+      23.787928,
+      60.825646,
+      0.0
+    ],
+    "name": "vt10_Tammela",
+    "municipality": "Tammela"
+  },
+  "426": {
+    "coordinates": [
+      24.685769,
+      61.159476,
+      0.0
+    ],
+    "name": "vt12_H\u00e4meenlinna_Hauho",
+    "municipality": "H\u00e4meenlinna"
+  },
+  "428": {
+    "coordinates": [
+      24.393024,
+      60.731605,
+      0.0
+    ],
+    "name": "kt54_Loppi",
+    "municipality": "Loppi"
+  },
+  "429": {
+    "coordinates": [
+      24.736828,
+      60.709512,
+      0.0
+    ],
+    "name": "vt3_Riihim\u00e4ki_Herajoki",
+    "municipality": "Riihim\u00e4ki"
+  },
+  "430": {
+    "coordinates": [
+      25.637911,
+      61.126882,
+      0.0
+    ],
+    "name": "vt24_Asikkala",
+    "municipality": "Asikkala"
+  },
+  "431": {
+    "coordinates": [
+      23.977413,
+      61.478619,
+      0.0
+    ],
+    "name": "vt12_Kangasala_Suorama",
+    "municipality": "Kangasala"
+  },
+  "432": {
+    "coordinates": [
+      24.597507,
+      60.854666,
+      0.0
+    ],
+    "name": "vt3_Janakkala",
+    "municipality": "Janakkala"
+  },
+  "433": {
+    "coordinates": [
+      23.955748,
+      61.28564,
+      0.0
+    ],
+    "name": "st130_Pispantie",
+    "municipality": "Valkeakoski"
+  },
+  "435": {
+    "coordinates": [
+      23.808471,
+      61.463652,
+      0.0
+    ],
+    "name": "vt9_Tampere_Karkunvuori",
+    "municipality": "Tampere"
+  },
+  "436": {
+    "coordinates": [
+      23.586782,
+      61.478807,
+      0.0
+    ],
+    "name": "yt13782_Nokia_Rajasalmi",
+    "municipality": "Nokia"
+  },
+  "437": {
+    "coordinates": [
+      24.412691,
+      61.015127,
+      0.0
+    ],
+    "name": "vt3_Hlinna_Mo3",
+    "municipality": "H\u00e4meenlinna"
+  },
+  "438": {
+    "coordinates": [
+      23.697679,
+      61.508408,
+      0.0
+    ],
+    "name": "vt12_Tre_Paasikiventie",
+    "municipality": "Tampere"
+  },
+  "439": {
+    "coordinates": [
+      23.821503,
+      61.504163,
+      0.0
+    ],
+    "name": "vt12_Tre_Teiskontie",
+    "municipality": "Tampere"
+  },
+  "440": {
+    "coordinates": [
+      23.837494,
+      61.2527,
+      0.0
+    ],
+    "name": "vt3_Lemp\u00e4\u00e4l\u00e4_Lippo",
+    "municipality": "Lemp\u00e4\u00e4l\u00e4"
+  },
+  "441": {
+    "coordinates": [
+      25.750283,
+      61.037244,
+      0.0
+    ],
+    "name": "st140_Hollola",
+    "municipality": "Hollola"
+  },
+  "442": {
+    "coordinates": [
+      26.041199,
+      61.336375,
+      0.0
+    ],
+    "name": "vt4_Heinola_Lusi",
+    "municipality": "Heinola"
+  },
+  "443": {
+    "coordinates": [
+      23.711674,
+      61.504828,
+      0.0
+    ],
+    "name": "Tre_Pispalan_valtatie",
+    "municipality": "Tampere"
+  },
+  "445": {
+    "coordinates": [
+      23.647575,
+      61.115503,
+      0.0
+    ],
+    "name": "vt9_Kylm\u00e4koski",
+    "municipality": "Akaa"
+  },
+  "446": {
+    "coordinates": [
+      25.59501,
+      60.981177,
+      0.0
+    ],
+    "name": "Lahti_K\u00e4rp\u00e4senm\u00e4ki",
+    "municipality": "Lahti"
+  },
+  "447": {
+    "coordinates": [
+      25.69798,
+      60.973187,
+      0.0
+    ],
+    "name": "Lahti_Joutj\u00e4rvi",
+    "municipality": "Lahti"
+  },
+  "448": {
+    "coordinates": [
+      24.70895,
+      61.73148,
+      0.0
+    ],
+    "name": "vt9_Orivesi_Talviainen",
+    "municipality": "Orivesi"
+  },
+  "449": {
+    "coordinates": [
+      23.74535,
+      61.460262,
+      0.0
+    ],
+    "name": "vt3_Tre_Sarankulma",
+    "municipality": "Tampere"
+  },
+  "450": {
+    "coordinates": [
+      23.56775,
+      61.519701,
+      0.0
+    ],
+    "name": "vt3_Tampere_Myllypuro",
+    "municipality": "Tampere"
+  },
+  "451": {
+    "coordinates": [
+      23.939764,
+      61.528153,
+      0.0
+    ],
+    "name": "vt9_Tre_Aitovuori",
+    "municipality": "Tampere"
+  },
+  "452": {
+    "coordinates": [
+      23.724675,
+      61.503156,
+      0.0
+    ],
+    "name": "Vt12_Tre_Onkiniemi",
+    "municipality": "Tampere"
+  },
+  "453": {
+    "coordinates": [
+      23.739676,
+      61.502302,
+      0.0
+    ],
+    "name": "Tampere_Mustalahti",
+    "municipality": "Tampere"
+  },
+  "455": {
+    "coordinates": [
+      23.654093,
+      61.517417,
+      0.0
+    ],
+    "name": "kt65_Tre_Epil\u00e4nharju",
+    "municipality": "Tampere"
+  },
+  "456": {
+    "coordinates": [
+      23.679207,
+      61.511616,
+      0.0
+    ],
+    "name": "kt65_Tre_Lielahti",
+    "municipality": "Tampere"
+  },
+  "457": {
+    "coordinates": [
+      23.785048,
+      61.50648,
+      0.0
+    ],
+    "name": "vt12_Tre_Petsamo",
+    "municipality": "Tampere"
+  },
+  "458": {
+    "coordinates": [
+      23.852788,
+      61.504198,
+      0.0
+    ],
+    "name": "vt12_Tampere_Ruotula",
+    "municipality": "Tampere"
+  },
+  "460": {
+    "coordinates": [
+      23.636382,
+      61.45259,
+      0.0
+    ],
+    "name": "vt3_Pirkkala_Huovi",
+    "municipality": "Pirkkala"
+  },
+  "461": {
+    "coordinates": [
+      25.905938,
+      61.09851,
+      0.0
+    ],
+    "name": "vt4_Vierum\u00e4ki",
+    "municipality": "Heinola"
+  },
+  "462": {
+    "coordinates": [
+      23.588359,
+      61.477796,
+      0.0
+    ],
+    "name": "vt3_Nokia_Rajasalmi",
+    "municipality": "Nokia"
+  },
+  "463": {
+    "coordinates": [
+      23.617727,
+      61.459451,
+      0.0
+    ],
+    "name": "vt3_Pirkkala_Sankila",
+    "municipality": "Pirkkala"
+  },
+  "464": {
+    "coordinates": [
+      23.775252,
+      61.479608,
+      0.0
+    ],
+    "name": "yt3495_Rautaharkko",
+    "municipality": "Tampere"
+  },
+  "465": {
+    "coordinates": [
+      24.458373,
+      60.990539,
+      0.0
+    ],
+    "name": "vt3_H\u00e4meenlinna_E",
+    "municipality": "H\u00e4meenlinna"
+  },
+  "466": {
+    "coordinates": [
+      24.450819,
+      61.000574,
+      0.0
+    ],
+    "name": "vt3_H\u00e4meenlinna_P",
+    "municipality": "H\u00e4meenlinna"
+  },
+  "468": {
+    "coordinates": [
+      25.62992,
+      60.954571,
+      75.0
+    ],
+    "name": "vt12_Lahti_Patom\u00e4ki",
+    "municipality": "Lahti"
+  },
+  "469": {
+    "coordinates": [
+      25.664579,
+      60.955907,
+      81.0
+    ],
+    "name": "vt12_Lahti_Liipola",
+    "municipality": "Lahti"
+  },
+  "470": {
+    "coordinates": [
+      25.708902,
+      60.964905,
+      108.0
+    ],
+    "name": "vt4_Lahti_Lotila",
+    "municipality": "Lahti"
+  },
+  "471": {
+    "coordinates": [
+      23.759727,
+      61.439193,
+      0.0
+    ],
+    "name": "vt3_Tampere_Multisilta",
+    "municipality": "Tampere"
+  },
+  "501": {
+    "coordinates": [
+      26.764592,
+      60.497151,
+      0.0
+    ],
+    "name": "st170_Pyht\u00e4\u00e4_Siltakyl\u00e4",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "502": {
+    "coordinates": [
+      26.179252,
+      60.913273,
+      0.0
+    ],
+    "name": "vt12_Iitti_Mankala",
+    "municipality": "Iitti"
+  },
+  "503": {
+    "coordinates": [
+      27.40631,
+      60.848624,
+      0.0
+    ],
+    "name": "vt26_Kouvola_Loveslampi",
+    "municipality": "Kouvola"
+  },
+  "504": {
+    "coordinates": [
+      27.835291,
+      60.596836,
+      0.0
+    ],
+    "name": "vt7_Vaalimaa_rekkaparkki1",
+    "municipality": "Virolahti"
+  },
+  "505": {
+    "coordinates": [
+      27.851074,
+      60.601271,
+      0.0
+    ],
+    "name": "vt7_Vaalimaa_rekkaparkki2",
+    "municipality": "Virolahti"
+  },
+  "506": {
+    "coordinates": [
+      27.349145,
+      60.565741,
+      13.0
+    ],
+    "name": "vt7_Hamina_Lelu",
+    "municipality": "Hamina"
+  },
+  "521": {
+    "coordinates": [
+      26.484791,
+      60.77637,
+      0.0
+    ],
+    "name": "vt6_Kouvola_Elim\u00e4ki",
+    "municipality": "Kouvola"
+  },
+  "522": {
+    "coordinates": [
+      27.664768,
+      60.934604,
+      0.0
+    ],
+    "name": "vt6_Luum\u00e4ki_kko",
+    "municipality": "Luum\u00e4ki"
+  },
+  "524": {
+    "coordinates": [
+      29.306611,
+      61.408419,
+      0.0
+    ],
+    "name": "vt6_Rautj\u00e4rvi_\u00c4nkil\u00e4",
+    "municipality": "Rautj\u00e4rvi"
+  },
+  "526": {
+    "coordinates": [
+      27.38452,
+      61.319175,
+      0.0
+    ],
+    "name": "vt13_Mikkeli_Suomenniemi",
+    "municipality": "Mikkeli"
+  },
+  "527": {
+    "coordinates": [
+      27.05936,
+      61.074383,
+      0.0
+    ],
+    "name": "vt15_Kouvola_Tuohikotti",
+    "municipality": "Kouvola"
+  },
+  "528": {
+    "coordinates": [
+      28.654392,
+      61.382702,
+      0.0
+    ],
+    "name": "kt62_Ruokolahti_Kotaniemi",
+    "municipality": "Ruokolahti"
+  },
+  "529": {
+    "coordinates": [
+      26.819139,
+      60.886205,
+      0.0
+    ],
+    "name": "vt6_Kouvola_Utti",
+    "municipality": "Kouvola"
+  },
+  "530": {
+    "coordinates": [
+      26.9219,
+      60.623619,
+      0.0
+    ],
+    "name": "vt15_Kotka_Juurikorpi",
+    "municipality": "Kotka"
+  },
+  "531": {
+    "coordinates": [
+      28.856509,
+      61.229893,
+      0.0
+    ],
+    "name": "vt6_Imatra_R\u00f6nkk\u00e4",
+    "municipality": "Imatra"
+  },
+  "532": {
+    "coordinates": [
+      28.833624,
+      61.127607,
+      0.0
+    ],
+    "name": "kt62_Imatra_raja2",
+    "municipality": "Imatra"
+  },
+  "533": {
+    "coordinates": [
+      28.364389,
+      61.036816,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Karhusj\u00e4rvi",
+    "municipality": "Lappeenranta"
+  },
+  "534": {
+    "coordinates": [
+      28.404704,
+      61.101493,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Muukko",
+    "municipality": "Lappeenranta"
+  },
+  "535": {
+    "coordinates": [
+      28.818879,
+      61.13534,
+      0.0
+    ],
+    "name": "kt62_Imatra_raja1",
+    "municipality": "Imatra"
+  },
+  "547": {
+    "coordinates": [
+      28.492213,
+      60.977438,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Nuijamaa_MP5",
+    "municipality": "Lappeenranta"
+  },
+  "550": {
+    "coordinates": [
+      27.634758,
+      60.572017,
+      0.0
+    ],
+    "name": "st170_Virolahti_Vaahterikonsuo",
+    "municipality": "Virolahti"
+  },
+  "556": {
+    "coordinates": [
+      28.060646,
+      61.028375,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Selk\u00e4harju",
+    "municipality": "Lappeenranta"
+  },
+  "558": {
+    "coordinates": [
+      28.160704,
+      61.041208,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Mattila",
+    "municipality": "Lappeenranta"
+  },
+  "559": {
+    "coordinates": [
+      28.198946,
+      61.042912,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Reijola",
+    "municipality": "Lappeenranta"
+  },
+  "560": {
+    "coordinates": [
+      28.246022,
+      61.051124,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Karhuvuori",
+    "municipality": "Lappeenranta"
+  },
+  "561": {
+    "coordinates": [
+      28.282199,
+      61.061776,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Hartikkala",
+    "municipality": "Lappeenranta"
+  },
+  "562": {
+    "coordinates": [
+      28.309848,
+      61.071791,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_M\u00e4lki\u00e4",
+    "municipality": "Lappeenranta"
+  },
+  "563": {
+    "coordinates": [
+      28.49518,
+      61.120376,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Joutseno",
+    "municipality": "Lappeenranta"
+  },
+  "564": {
+    "coordinates": [
+      28.679108,
+      61.165909,
+      0.0
+    ],
+    "name": "vt6_Lappeenranta_Korvenkangas",
+    "municipality": "Lappeenranta"
+  },
+  "572": {
+    "coordinates": [
+      26.995934,
+      60.550655,
+      0.0
+    ],
+    "name": "vt7_Kotka_Salminlahti",
+    "municipality": "Kotka"
+  },
+  "573": {
+    "coordinates": [
+      27.086762,
+      60.569312,
+      0.0
+    ],
+    "name": "vt7_Hamina_Summa",
+    "municipality": "Hamina"
+  },
+  "574": {
+    "coordinates": [
+      26.90234,
+      60.505233,
+      0.0
+    ],
+    "name": "vt7_Kotka_Kyminlinna",
+    "municipality": "Kotka"
+  },
+  "575": {
+    "coordinates": [
+      26.54646,
+      60.486397,
+      0.0
+    ],
+    "name": "vt7_Pyht\u00e4\u00e42",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "576": {
+    "coordinates": [
+      26.926898,
+      60.514416,
+      0.0
+    ],
+    "name": "vt7_Kotka_Karhula",
+    "municipality": "Kotka"
+  },
+  "577": {
+    "coordinates": [
+      26.954217,
+      60.526567,
+      0.0
+    ],
+    "name": "vt7_Kotka_Otsola",
+    "municipality": "Kotka"
+  },
+  "578": {
+    "coordinates": [
+      26.460474,
+      60.490154,
+      0.0
+    ],
+    "name": "vt7_Pyht\u00e4\u00e4_Ahvenkoski_It\u00e4",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "579": {
+    "coordinates": [
+      26.701676,
+      60.500132,
+      0.0
+    ],
+    "name": "vt7_Pyht\u00e4\u00e4_Siltakyl\u00e42",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "580": {
+    "coordinates": [
+      26.811021,
+      60.501077,
+      0.0
+    ],
+    "name": "vt7_Pyht\u00e4\u00e4_Mokra",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "581": {
+    "coordinates": [
+      27.869444,
+      60.606657,
+      0.0
+    ],
+    "name": "vt7_Virolahti_Vaalimaa",
+    "municipality": "Virolahti"
+  },
+  "582": {
+    "coordinates": [
+      28.503726,
+      60.964523,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Nuijamaa",
+    "municipality": "Lappeenranta"
+  },
+  "583": {
+    "coordinates": [
+      26.855128,
+      60.497487,
+      0.0
+    ],
+    "name": "vt7_Kotka_Pet\u00e4j\u00e4suo",
+    "municipality": "Kotka"
+  },
+  "584": {
+    "coordinates": [
+      26.681621,
+      60.49029,
+      0.0
+    ],
+    "name": "st170_Pyht\u00e4\u00e4",
+    "municipality": "Pyht\u00e4\u00e4"
+  },
+  "586": {
+    "coordinates": [
+      26.921393,
+      60.463908,
+      0.0
+    ],
+    "name": "vt15_Kotka_Kotkansaari",
+    "municipality": "Kotka"
+  },
+  "587": {
+    "coordinates": [
+      27.387624,
+      60.913277,
+      0.0
+    ],
+    "name": "vt6_Luum\u00e4ki_Somerharju",
+    "municipality": "Luum\u00e4ki"
+  },
+  "590": {
+    "coordinates": [
+      26.429675,
+      60.880548,
+      0.0
+    ],
+    "name": "vt12_Iitti, Tillola",
+    "municipality": "Iitti"
+  },
+  "591": {
+    "coordinates": [
+      26.788494,
+      60.817549,
+      0.0
+    ],
+    "name": "vt15_Kouvola_Havukka",
+    "municipality": "Kouvola"
+  },
+  "592": {
+    "coordinates": [
+      26.999613,
+      60.904803,
+      0.0
+    ],
+    "name": "vt6_Kouvola_Metso",
+    "municipality": "Kouvola"
+  },
+  "593": {
+    "coordinates": [
+      27.979948,
+      60.765028,
+      0.0
+    ],
+    "name": "st387_Lappeenranta_Yl\u00e4maa",
+    "municipality": "Lappeenranta"
+  },
+  "594": {
+    "coordinates": [
+      26.541592,
+      60.841068,
+      0.0
+    ],
+    "name": "vt6_Kouvola_Hevossuo",
+    "municipality": "Kouvola"
+  },
+  "595": {
+    "coordinates": [
+      26.639312,
+      60.872762,
+      0.0
+    ],
+    "name": "vt6_Kouvola_Puhjo",
+    "municipality": "Kouvola"
+  },
+  "596": {
+    "coordinates": [
+      26.754927,
+      60.88464,
+      0.0
+    ],
+    "name": "vt6_Kouvola_K\u00e4yr\u00e4lampi",
+    "municipality": "Kouvola"
+  },
+  "597": {
+    "coordinates": [
+      28.510393,
+      60.96021,
+      0.0
+    ],
+    "name": "vt13_Lappeenranta_Nuijamaa_rask",
+    "municipality": "Lappeenranta"
+  },
+  "598": {
+    "coordinates": [
+      27.869182,
+      60.606425,
+      0.0
+    ],
+    "name": "vt7_Virolahti, Vaalimaa_rask",
+    "municipality": "Virolahti"
+  },
+  "599": {
+    "coordinates": [
+      26.883346,
+      60.50124,
+      7.0
+    ],
+    "name": "vt7_Kotka_Lepp\u00e4saari",
+    "municipality": "Kotka"
+  },
+  "602": {
+    "coordinates": [
+      26.75034,
+      61.47962,
+      0.0
+    ],
+    "name": "vt5_M\u00e4ntyharju_Toivola",
+    "municipality": "M\u00e4ntyharju"
+  },
+  "603": {
+    "coordinates": [
+      27.838071,
+      62.138214,
+      0.0
+    ],
+    "name": "vt5_Joroinen_Tienhaara",
+    "municipality": "Joroinen"
+  },
+  "604": {
+    "coordinates": [
+      27.25169,
+      61.556588,
+      0.0
+    ],
+    "name": "vt13_Mikkeli_Ristiina",
+    "municipality": "Mikkeli"
+  },
+  "605": {
+    "coordinates": [
+      27.823353,
+      61.898902,
+      0.0
+    ],
+    "name": "vt14_Juva1",
+    "municipality": "Juva"
+  },
+  "606": {
+    "coordinates": [
+      28.950363,
+      61.871715,
+      0.0
+    ],
+    "name": "vt14_Savonlinna_Nojanmaa",
+    "municipality": "Savonlinna"
+  },
+  "607": {
+    "coordinates": [
+      27.247958,
+      62.122853,
+      0.0
+    ],
+    "name": "kt72_Pieks\u00e4m\u00e4ki_Virtasalmi",
+    "municipality": "Pieks\u00e4m\u00e4ki"
+  },
+  "622": {
+    "coordinates": [
+      26.499139,
+      62.093642,
+      0.0
+    ],
+    "name": "vt13_Kangasniemi_Synsi\u00f6",
+    "municipality": "Kangasniemi"
+  },
+  "623": {
+    "coordinates": [
+      25.9794,
+      61.492351,
+      0.0
+    ],
+    "name": "vt4_Hartola",
+    "municipality": "Hartola"
+  },
+  "627": {
+    "coordinates": [
+      27.598326,
+      61.795714,
+      0.0
+    ],
+    "name": "vt5_Juva_Nuutilanm\u00e4ki",
+    "municipality": "Juva"
+  },
+  "628": {
+    "coordinates": [
+      26.065516,
+      61.274775,
+      0.0
+    ],
+    "name": "vt4_Murham\u00e4ki",
+    "municipality": "Heinola"
+  },
+  "629": {
+    "coordinates": [
+      27.402817,
+      62.290789,
+      0.0
+    ],
+    "name": "vt23_Pieks\u00e4m\u00e4ki_Siikam\u00e4ki",
+    "municipality": "Pieks\u00e4m\u00e4ki"
+  },
+  "630": {
+    "coordinates": [
+      26.386836,
+      61.39936,
+      0.0
+    ],
+    "name": "vt5_Pertunmaa_Kuortti",
+    "municipality": "Pertunmaa"
+  },
+  "631": {
+    "coordinates": [
+      27.86515,
+      62.276534,
+      0.0
+    ],
+    "name": "vt5_Joroinen_Kuvansi",
+    "municipality": "Joroinen"
+  },
+  "632": {
+    "coordinates": [
+      28.854191,
+      61.879312,
+      0.0
+    ],
+    "name": "vt14_Savonlinna_Hevonp\u00e4\u00e4nniemi",
+    "municipality": "Savonlinna"
+  },
+  "633": {
+    "coordinates": [
+      27.249481,
+      61.677505,
+      0.0
+    ],
+    "name": "vt5_Mikkeli_Pitk\u00e4j\u00e4rvi",
+    "municipality": "Mikkeli"
+  },
+  "701": {
+    "coordinates": [
+      29.104469,
+      62.684077,
+      0.0
+    ],
+    "name": "vt9_Liperi_Viinij\u00e4rvi",
+    "municipality": "Liperi"
+  },
+  "704": {
+    "coordinates": [
+      29.607403,
+      62.05345,
+      0.0
+    ],
+    "name": "kt71_Kitee_V\u00e4\u00e4r\u00e4m\u00e4ki",
+    "municipality": "Kitee"
+  },
+  "705": {
+    "coordinates": [
+      30.050097,
+      63.303887,
+      0.0
+    ],
+    "name": "kt73_Lieksa_M\u00e4hk\u00f6",
+    "municipality": "Lieksa"
+  },
+  "723": {
+    "coordinates": [
+      29.260483,
+      62.606588,
+      0.0
+    ],
+    "name": "vt23_Liperi_Kompero",
+    "municipality": "Liperi"
+  },
+  "724": {
+    "coordinates": [
+      30.622457,
+      62.171684,
+      0.0
+    ],
+    "name": "vt9_Tohmaj\u00e4rvi_Niirala",
+    "municipality": "Tohmaj\u00e4rvi"
+  },
+  "725": {
+    "coordinates": [
+      29.230376,
+      63.291359,
+      0.0
+    ],
+    "name": "vt6_Juuka_Lonkaa",
+    "municipality": "Juuka"
+  },
+  "726": {
+    "coordinates": [
+      29.582287,
+      62.625341,
+      0.0
+    ],
+    "name": "vt9_Liperi_Yl\u00e4mylly",
+    "municipality": "Liperi"
+  },
+  "727": {
+    "coordinates": [
+      29.78608,
+      62.660065,
+      0.0
+    ],
+    "name": "vt6_Kontiolahti_Lehmo",
+    "municipality": "Kontiolahti"
+  },
+  "729": {
+    "coordinates": [
+      30.525608,
+      62.17786,
+      0.0
+    ],
+    "name": "vt9_Tohmaj\u00e4rvi_Kaurila",
+    "municipality": "Tohmaj\u00e4rvi"
+  },
+  "730": {
+    "coordinates": [
+      29.711943,
+      62.62456,
+      86.0
+    ],
+    "name": "vt9_Joensuu_Noljakka",
+    "municipality": "Joensuu"
+  },
+  "731": {
+    "coordinates": [
+      29.862889,
+      62.530771,
+      0.0
+    ],
+    "name": "vt6_Joensuu_Reijola",
+    "municipality": "Joensuu"
+  },
+  "732": {
+    "coordinates": [
+      29.873465,
+      61.974061,
+      0.0
+    ],
+    "name": "vt6_Kitee_Kousa",
+    "municipality": "Kitee"
+  },
+  "733": {
+    "coordinates": [
+      29.780506,
+      62.614368,
+      0.0
+    ],
+    "name": "vt6_Joensuu",
+    "municipality": "Joensuu"
+  },
+  "801": {
+    "coordinates": [
+      27.681544,
+      62.520063,
+      0.0
+    ],
+    "name": "vt5_Lepp\u00e4virta_Oikearanta",
+    "municipality": "Lepp\u00e4virta"
+  },
+  "803": {
+    "coordinates": [
+      27.647471,
+      63.103916,
+      0.0
+    ],
+    "name": "vt5_Siilinj\u00e4rvi_Pyyj\u00e4rvi",
+    "municipality": "Siilinj\u00e4rvi"
+  },
+  "804": {
+    "coordinates": [
+      28.33583,
+      62.870994,
+      0.0
+    ],
+    "name": "vt9_Tuusniemi_Tuusj\u00e4rvi",
+    "municipality": "Tuusniemi"
+  },
+  "805": {
+    "coordinates": [
+      28.574839,
+      63.367592,
+      0.0
+    ],
+    "name": "kt75_Rautavaara_Luostanlinna",
+    "municipality": "Rautavaara"
+  },
+  "806": {
+    "coordinates": [
+      26.715213,
+      63.194671,
+      0.0
+    ],
+    "name": "kt77_Pielavesi_Kopsankyl\u00e4",
+    "municipality": "Pielavesi"
+  },
+  "807": {
+    "coordinates": [
+      26.432573,
+      63.674695,
+      0.0
+    ],
+    "name": "vt27_Kiuruvesi_Hamarinvuori",
+    "municipality": "Kiuruvesi"
+  },
+  "821": {
+    "coordinates": [
+      27.416714,
+      62.676118,
+      0.0
+    ],
+    "name": "vt9_Suonenjoki_Kutunj\u00e4rvi",
+    "municipality": "Suonenjoki"
+  },
+  "822": {
+    "coordinates": [
+      26.986018,
+      63.749188,
+      0.0
+    ],
+    "name": "kt88_Vierem\u00e4",
+    "municipality": "Vierem\u00e4"
+  },
+  "824": {
+    "coordinates": [
+      28.059585,
+      63.159412,
+      0.0
+    ],
+    "name": "kt75_Nilsi\u00e4_Suholanm\u00e4ki",
+    "municipality": "Kuopio"
+  },
+  "825": {
+    "coordinates": [
+      27.603342,
+      62.809001,
+      0.0
+    ],
+    "name": "vt5_Kuopio_Hiltulanlahti",
+    "municipality": "Kuopio"
+  },
+  "826": {
+    "coordinates": [
+      27.251752,
+      63.566831,
+      0.0
+    ],
+    "name": "vt5_Iisalmi_Paloisj\u00e4rvi",
+    "municipality": "Iisalmi"
+  },
+  "827": {
+    "coordinates": [
+      27.882583,
+      62.949672,
+      0.0
+    ],
+    "name": "vt9_Kuopio_J\u00e4nnevirta",
+    "municipality": "Kuopio"
+  },
+  "828": {
+    "coordinates": [
+      27.678447,
+      62.917967,
+      0.0
+    ],
+    "name": "vt5_Kuopio_Rahusenlampi",
+    "municipality": "Kuopio"
+  },
+  "832": {
+    "coordinates": [
+      27.619645,
+      62.86975,
+      98.0
+    ],
+    "name": "vt5_Kuopio_Lev\u00e4nen",
+    "municipality": "Kuopio"
+  },
+  "833": {
+    "coordinates": [
+      27.825265,
+      63.134857,
+      0.0
+    ],
+    "name": "kt75_Siilinj\u00e4rvi_Pajukoski",
+    "municipality": "Siilinj\u00e4rvi"
+  },
+  "834": {
+    "coordinates": [
+      27.679283,
+      62.952349,
+      0.0
+    ],
+    "name": "vt5_Kuopio_Tikkalansaari",
+    "municipality": "Kuopio"
+  },
+  "835": {
+    "coordinates": [
+      27.696782,
+      62.963797,
+      0.0
+    ],
+    "name": "vt5_Kuopio_Sorsasalo",
+    "municipality": "Kuopio"
+  },
+  "836": {
+    "coordinates": [
+      27.706255,
+      62.982096,
+      0.0
+    ],
+    "name": "vt5_Siilinj\u00e4rvi_Vuorela",
+    "municipality": "Siilinj\u00e4rvi"
+  },
+  "901": {
+    "coordinates": [
+      25.701282,
+      62.370742,
+      0.0
+    ],
+    "name": "vt4_Jyv\u00e4skyl\u00e4_Tikkakoski",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "902": {
+    "coordinates": [
+      25.725978,
+      62.656247,
+      0.0
+    ],
+    "name": "vt4_\u00c4\u00e4nekoski_Karvalahti",
+    "municipality": "\u00c4\u00e4nekoski"
+  },
+  "903": {
+    "coordinates": [
+      26.159011,
+      62.248253,
+      0.0
+    ],
+    "name": "vt9_Laukaa_Lievestuore",
+    "municipality": "Laukaa"
+  },
+  "904": {
+    "coordinates": [
+      25.059282,
+      62.796193,
+      0.0
+    ],
+    "name": "vt13_Saarij\u00e4rvi_Alaj\u00e4rvi",
+    "municipality": "Saarij\u00e4rvi"
+  },
+  "905": {
+    "coordinates": [
+      24.563221,
+      62.246944,
+      0.0
+    ],
+    "name": "vt23_Keuruu_Tiusala",
+    "municipality": "Keuruu"
+  },
+  "921": {
+    "coordinates": [
+      25.146808,
+      61.488543,
+      0.0
+    ],
+    "name": "vt24_Kuhmoinen",
+    "municipality": "Kuhmoinen"
+  },
+  "922": {
+    "coordinates": [
+      25.62855,
+      62.095101,
+      0.0
+    ],
+    "name": "vt9_Muurame_Niittyaho",
+    "municipality": "Muurame"
+  },
+  "923": {
+    "coordinates": [
+      25.786025,
+      62.242054,
+      0.0
+    ],
+    "name": "vt4_Jyv\u00e4skyl\u00e4_Halssila",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "925": {
+    "coordinates": [
+      25.66295,
+      63.224403,
+      0.0
+    ],
+    "name": "vt4_Viitasaari_L\u00f6yt\u00e4n\u00e4",
+    "municipality": "Viitasaari"
+  },
+  "927": {
+    "coordinates": [
+      25.401237,
+      61.977691,
+      0.0
+    ],
+    "name": "vt9_Jyv\u00e4skyl\u00e4_Saakoski",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "928": {
+    "coordinates": [
+      26.09787,
+      61.826185,
+      0.0
+    ],
+    "name": "vt4_Joutsa_Harvastensuo",
+    "municipality": "Joutsa"
+  },
+  "929": {
+    "coordinates": [
+      25.89628,
+      62.234518,
+      0.0
+    ],
+    "name": "vt4_Jyv\u00e4skyl\u00e4_Hupeli",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "930": {
+    "coordinates": [
+      25.162483,
+      61.84994,
+      0.0
+    ],
+    "name": "vt9_J\u00e4ms\u00e4",
+    "municipality": "J\u00e4ms\u00e4"
+  },
+  "931": {
+    "coordinates": [
+      25.39467,
+      62.271666,
+      0.0
+    ],
+    "name": "vt18_Pet\u00e4j\u00e4vesi_Vehkasuo",
+    "municipality": "Pet\u00e4j\u00e4vesi"
+  },
+  "932": {
+    "coordinates": [
+      25.81487,
+      63.041557,
+      0.0
+    ],
+    "name": "vt4_Viitasaari_H\u00e4nnil\u00e4nsalmi",
+    "municipality": "Viitasaari"
+  },
+  "933": {
+    "coordinates": [
+      25.728211,
+      62.278469,
+      0.0
+    ],
+    "name": "vt4_Jyv\u00e4skyl\u00e4_Mannila",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "934": {
+    "coordinates": [
+      25.82149,
+      62.300927,
+      0.0
+    ],
+    "name": "st637_Jyv\u00e4skyl\u00e4_Palokangas",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "935": {
+    "coordinates": [
+      25.978907,
+      62.106346,
+      0.0
+    ],
+    "name": "vt4_Toivakka_Majalampi",
+    "municipality": "Toivakka"
+  },
+  "936": {
+    "coordinates": [
+      25.682379,
+      62.44338,
+      0.0
+    ],
+    "name": "vt4_Laukaa_Vehni\u00e4",
+    "municipality": "Laukaa"
+  },
+  "937": {
+    "coordinates": [
+      25.815228,
+      63.144195,
+      0.0
+    ],
+    "name": "kt77_Viitasaari_Tuliniemi",
+    "municipality": "Viitasaari"
+  },
+  "938": {
+    "coordinates": [
+      25.759138,
+      62.24248,
+      0.0
+    ],
+    "name": "vt9_Jyv\u00e4skyl\u00e4_Lutakko",
+    "municipality": "Jyv\u00e4skyl\u00e4"
+  },
+  "998": {
+    "coordinates": [
+      25.275103,
+      60.61914,
+      0.0
+    ],
+    "name": "vt4_M\u00e4nts\u00e4l\u00e4_E",
+    "municipality": "M\u00e4nts\u00e4l\u00e4"
+  },
+  "1001": {
+    "coordinates": [
+      22.280752,
+      62.787786,
+      0.0
+    ],
+    "name": "vt3_Ilmajoki_Majakangas",
+    "municipality": "Ilmajoki"
+  },
+  "1002": {
+    "coordinates": [
+      21.809896,
+      63.020728,
+      0.0
+    ],
+    "name": "vt3_H\u00e4lsingby",
+    "municipality": "Mustasaari"
+  },
+  "1003": {
+    "coordinates": [
+      21.785075,
+      63.147016,
+      0.0
+    ],
+    "name": "vt8_Koivulahti",
+    "municipality": "Mustasaari"
+  },
+  "1004": {
+    "coordinates": [
+      22.346244,
+      62.97981,
+      0.0
+    ],
+    "name": "vt18_Isokyr\u00f6",
+    "municipality": "Isokyr\u00f6"
+  },
+  "1005": {
+    "coordinates": [
+      22.753175,
+      62.587638,
+      0.0
+    ],
+    "name": "vt19_Luopaj\u00e4rvi",
+    "municipality": "Kurikka"
+  },
+  "1006": {
+    "coordinates": [
+      22.619883,
+      62.740972,
+      0.0
+    ],
+    "name": "kt67_Ilmajoki",
+    "municipality": "Ilmajoki"
+  },
+  "1007": {
+    "coordinates": [
+      23.039081,
+      62.939917,
+      0.0
+    ],
+    "name": "vt19_Lapua",
+    "municipality": "Lapua"
+  },
+  "1021": {
+    "coordinates": [
+      22.797149,
+      62.393682,
+      0.0
+    ],
+    "name": "vt3_Koskue",
+    "municipality": "Kurikka"
+  },
+  "1022": {
+    "coordinates": [
+      21.426471,
+      62.442163,
+      0.0
+    ],
+    "name": "vt8_N\u00e4rpi\u00f6",
+    "municipality": "N\u00e4rpi\u00f6"
+  },
+  "1023": {
+    "coordinates": [
+      23.239785,
+      63.86026,
+      0.0
+    ],
+    "name": "vt8_Kokkola",
+    "municipality": "Kokkola"
+  },
+  "1024": {
+    "coordinates": [
+      23.626927,
+      62.446835,
+      0.0
+    ],
+    "name": "kt66_Alavus_Sampsalampi",
+    "municipality": "Alavus"
+  },
+  "1026": {
+    "coordinates": [
+      22.707169,
+      63.548586,
+      0.0
+    ],
+    "name": "vt8_Kovjoki",
+    "municipality": "Uusikaarlepyy"
+  },
+  "1027": {
+    "coordinates": [
+      23.678787,
+      63.019731,
+      0.0
+    ],
+    "name": "vt16_Alaj\u00e4rvi",
+    "municipality": "Alaj\u00e4rvi"
+  },
+  "1028": {
+    "coordinates": [
+      23.514634,
+      63.335551,
+      0.0
+    ],
+    "name": "kt68_Evij\u00e4rvi",
+    "municipality": "Evij\u00e4rvi"
+  },
+  "1029": {
+    "coordinates": [
+      21.483404,
+      63.206633,
+      0.0
+    ],
+    "name": "st724_Raippaluoto",
+    "municipality": "Mustasaari"
+  },
+  "1030": {
+    "coordinates": [
+      21.707043,
+      63.062707,
+      0.0
+    ],
+    "name": "vt3_Vaasa_Mt",
+    "municipality": "Vaasa"
+  },
+  "1031": {
+    "coordinates": [
+      22.800476,
+      63.289083,
+      0.0
+    ],
+    "name": "vt19_Alah\u00e4rm\u00e4_Voltti",
+    "municipality": "Kauhava"
+  },
+  "1032": {
+    "coordinates": [
+      22.781877,
+      62.851504,
+      0.0
+    ],
+    "name": "vt18_Sein\u00e4joki_Munakka",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1033": {
+    "coordinates": [
+      23.691022,
+      62.594559,
+      0.0
+    ],
+    "name": "vt18_Alavus_Tuuri",
+    "municipality": "Alavus"
+  },
+  "1034": {
+    "coordinates": [
+      22.844776,
+      62.797651,
+      0.0
+    ],
+    "name": "kt67_Sein\u00e4joki",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1035": {
+    "coordinates": [
+      23.067366,
+      63.124067,
+      0.0
+    ],
+    "name": "kt63_Kauhava",
+    "municipality": "Kauhava"
+  },
+  "1036": {
+    "coordinates": [
+      22.819768,
+      63.639362,
+      0.0
+    ],
+    "name": "kt68_Pietarsaari",
+    "municipality": "Peders\u00f6ren kunta"
+  },
+  "1037": {
+    "coordinates": [
+      23.010367,
+      62.772412,
+      0.0
+    ],
+    "name": "vt18_Nurmo_Uittoo",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1038": {
+    "coordinates": [
+      23.752316,
+      63.559336,
+      0.0
+    ],
+    "name": "kt63_Kaustinen",
+    "municipality": "Kaustinen"
+  },
+  "1039": {
+    "coordinates": [
+      24.044465,
+      62.540259,
+      0.0
+    ],
+    "name": "kt68_\u00c4ht\u00e4ri",
+    "municipality": "\u00c4ht\u00e4ri"
+  },
+  "1040": {
+    "coordinates": [
+      23.859098,
+      63.899235,
+      0.0
+    ],
+    "name": "vt28_Kannus",
+    "municipality": "Kannus"
+  },
+  "1041": {
+    "coordinates": [
+      23.464234,
+      63.600912,
+      0.0
+    ],
+    "name": "vt13_Kaustinen_Viiperi",
+    "municipality": "Kaustinen"
+  },
+  "1042": {
+    "coordinates": [
+      22.280583,
+      62.480593,
+      0.0
+    ],
+    "name": "kt67_Kauhajoki_P",
+    "municipality": "Kauhajoki"
+  },
+  "1043": {
+    "coordinates": [
+      22.375474,
+      62.667424,
+      0.0
+    ],
+    "name": "yt17367_Kurikka_Panttil",
+    "municipality": "Kurikka"
+  },
+  "1044": {
+    "coordinates": [
+      23.51699,
+      62.805063,
+      0.0
+    ],
+    "name": "kt66_Kuortane",
+    "municipality": "Kuortane"
+  },
+  "1045": {
+    "coordinates": [
+      21.762415,
+      62.951484,
+      0.0
+    ],
+    "name": "vt8_Mustasaari_Riimal",
+    "municipality": "Mustasaari"
+  },
+  "1046": {
+    "coordinates": [
+      21.683517,
+      62.471338,
+      0.0
+    ],
+    "name": "kt67_Teuva",
+    "municipality": "Teuva"
+  },
+  "1047": {
+    "coordinates": [
+      22.431398,
+      62.640243,
+      0.0
+    ],
+    "name": "vt3_Kurikka_Tuiskula",
+    "municipality": "Kurikka"
+  },
+  "1048": {
+    "coordinates": [
+      23.213805,
+      63.798287,
+      0.0
+    ],
+    "name": "vt13_Kokkola_Ribacken",
+    "municipality": "Kokkola"
+  },
+  "1049": {
+    "coordinates": [
+      23.055276,
+      63.01968,
+      0.0
+    ],
+    "name": "vt19_Lapua_Voitilanj\u00e4rvi",
+    "municipality": "Lapua"
+  },
+  "1050": {
+    "coordinates": [
+      21.530825,
+      62.067786,
+      0.0
+    ],
+    "name": "vt8_Kristiinankaupunki",
+    "municipality": "Kristiinankaupunki"
+  },
+  "1051": {
+    "coordinates": [
+      22.045875,
+      62.95587,
+      0.0
+    ],
+    "name": "vt3_Laihia_Per\u00e4l\u00e4",
+    "municipality": "Laihia"
+  },
+  "1052": {
+    "coordinates": [
+      23.641947,
+      64.04918,
+      0.0
+    ],
+    "name": "vt8_Himanka",
+    "municipality": "Kalajoki"
+  },
+  "1053": {
+    "coordinates": [
+      22.080626,
+      62.991996,
+      0.0
+    ],
+    "name": "vt18_Laihia_Vedenoja",
+    "municipality": "Vaasa"
+  },
+  "1054": {
+    "coordinates": [
+      22.215368,
+      62.447897,
+      0.0
+    ],
+    "name": "kt44_Kauhajoki",
+    "municipality": "Kauhajoki"
+  },
+  "1055": {
+    "coordinates": [
+      23.937685,
+      62.808306,
+      0.0
+    ],
+    "name": "kt68_Lehtim\u00e4ki",
+    "municipality": "Alaj\u00e4rvi"
+  },
+  "1056": {
+    "coordinates": [
+      23.467483,
+      62.592388,
+      0.0
+    ],
+    "name": "vt18_Alavus_Kuivaskyl\u00e4",
+    "municipality": "Alavus"
+  },
+  "1057": {
+    "coordinates": [
+      21.671131,
+      63.087002,
+      0.0
+    ],
+    "name": "vt8_Vaasa_Yhdystie",
+    "municipality": "Vaasa"
+  },
+  "1058": {
+    "coordinates": [
+      22.547341,
+      62.960082,
+      0.0
+    ],
+    "name": "vt16_Ylistaro",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1059": {
+    "coordinates": [
+      22.925756,
+      62.826881,
+      0.0
+    ],
+    "name": "vt19_Nurmo",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1060": {
+    "coordinates": [
+      23.575968,
+      62.635241,
+      0.0
+    ],
+    "name": "kt66_Alavus_Pohjoinen",
+    "municipality": "Alavus"
+  },
+  "1061": {
+    "coordinates": [
+      22.851669,
+      62.810611,
+      0.0
+    ],
+    "name": "vt18_Sein\u00e4j\u00f6ki_Pajuneva",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1062": {
+    "coordinates": [
+      23.763369,
+      62.613384,
+      0.0
+    ],
+    "name": "vt18_T\u00f6ys\u00e4_Jokikyl\u00e4",
+    "municipality": "Alavus"
+  },
+  "1063": {
+    "coordinates": [
+      22.282447,
+      63.256345,
+      0.0
+    ],
+    "name": "vt8_Kaitsor_V\u00f6yri-Maksamaa",
+    "municipality": "V\u00f6yri"
+  },
+  "1064": {
+    "coordinates": [
+      24.522279,
+      63.167325,
+      0.0
+    ],
+    "name": "vt13_Perho_M\u00f6tt\u00f6nen",
+    "municipality": "Perho"
+  },
+  "1065": {
+    "coordinates": [
+      24.122218,
+      62.555526,
+      0.0
+    ],
+    "name": "vt18_\u00c4ht\u00e4ri_Inha",
+    "municipality": "\u00c4ht\u00e4ri"
+  },
+  "1066": {
+    "coordinates": [
+      21.719721,
+      63.130044,
+      0.0
+    ],
+    "name": "vt8_Mustasaari_Lintuvuori",
+    "municipality": "Mustasaari"
+  },
+  "1067": {
+    "coordinates": [
+      21.654017,
+      63.107493,
+      0.0
+    ],
+    "name": "vt8_Vaasa_B\u00f6le",
+    "municipality": "Vaasa"
+  },
+  "1068": {
+    "coordinates": [
+      22.837219,
+      62.709277,
+      0.0
+    ],
+    "name": "vt19_Ilmajoki_Rengonkyl\u00e4",
+    "municipality": "Ilmajoki"
+  },
+  "1069": {
+    "coordinates": [
+      22.837268,
+      62.709486,
+      0.0
+    ],
+    "name": "vt19_Sein\u00e4joki_Kertunlaakso",
+    "municipality": "Sein\u00e4joki"
+  },
+  "1070": {
+    "coordinates": [
+      21.617358,
+      63.113409,
+      0.0
+    ],
+    "name": "st724_Vaasa_Onkilahti",
+    "municipality": "Vaasa"
+  },
+  "1101": {
+    "coordinates": [
+      25.784847,
+      63.623715,
+      0.0
+    ],
+    "name": "vt4_Pyh\u00e4j\u00e4rvi",
+    "municipality": "Pyh\u00e4j\u00e4rvi"
+  },
+  "1103": {
+    "coordinates": [
+      24.711697,
+      63.87307,
+      0.0
+    ],
+    "name": "vt28_Sievi",
+    "municipality": "Sievi"
+  },
+  "1104": {
+    "coordinates": [
+      24.352838,
+      64.123127,
+      0.0
+    ],
+    "name": "vt27_Ylivieska_Alavieska",
+    "municipality": "Alavieska"
+  },
+  "1105": {
+    "coordinates": [
+      25.605169,
+      63.744651,
+      0.0
+    ],
+    "name": "vt27_Haapaj\u00e4rvi",
+    "municipality": "Haapaj\u00e4rvi"
+  },
+  "1121": {
+    "coordinates": [
+      25.807715,
+      63.948495,
+      0.0
+    ],
+    "name": "vt4_K\u00e4rs\u00e4m\u00e4ki",
+    "municipality": "K\u00e4rs\u00e4m\u00e4ki"
+  },
+  "1122": {
+    "coordinates": [
+      23.91719,
+      63.428212,
+      0.0
+    ],
+    "name": "vt13_Veteli",
+    "municipality": "Veteli"
+  },
+  "1123": {
+    "coordinates": [
+      24.82984,
+      64.244521,
+      0.0
+    ],
+    "name": "kt86_Oulainen",
+    "municipality": "Oulainen"
+  },
+  "1124": {
+    "coordinates": [
+      23.93825,
+      64.29854,
+      0.0
+    ],
+    "name": "vt8_Rahvo",
+    "municipality": "Kalajoki"
+  },
+  "1201": {
+    "coordinates": [
+      25.509072,
+      64.979487,
+      0.0
+    ],
+    "name": "vt4_Oulu_M\u00e4ntyl\u00e4",
+    "municipality": "Oulu"
+  },
+  "1202": {
+    "coordinates": [
+      25.374974,
+      65.302676,
+      0.0
+    ],
+    "name": "vt4_Ii",
+    "municipality": "Ii"
+  },
+  "1203": {
+    "coordinates": [
+      29.146153,
+      66.060366,
+      0.0
+    ],
+    "name": "vt5_Kuusamo_Nissinvaara",
+    "municipality": "Kuusamo"
+  },
+  "1204": {
+    "coordinates": [
+      24.561522,
+      64.686291,
+      0.0
+    ],
+    "name": "vt8_Raahe",
+    "municipality": "Raahe"
+  },
+  "1205": {
+    "coordinates": [
+      25.386099,
+      64.708879,
+      0.0
+    ],
+    "name": "kt86_Liminka_Heinij\u00e4rvi",
+    "municipality": "Liminka"
+  },
+  "1206": {
+    "coordinates": [
+      25.532678,
+      64.946703,
+      0.0
+    ],
+    "name": "vt4_Oulu_Ouluntulli",
+    "municipality": "Oulu"
+  },
+  "1207": {
+    "coordinates": [
+      25.425123,
+      65.174538,
+      0.0
+    ],
+    "name": "vt4_Oulu_Haukipudas",
+    "municipality": "Oulu"
+  },
+  "1221": {
+    "coordinates": [
+      25.846923,
+      64.382939,
+      0.0
+    ],
+    "name": "vt4_Rantsila",
+    "municipality": "Siikalatva"
+  },
+  "1222": {
+    "coordinates": [
+      25.48791,
+      64.839634,
+      0.0
+    ],
+    "name": "st847_Tupos",
+    "municipality": "Liminka"
+  },
+  "1223": {
+    "coordinates": [
+      25.63996,
+      65.065491,
+      0.0
+    ],
+    "name": "vt20_Kiiminki",
+    "municipality": "Oulu"
+  },
+  "1224": {
+    "coordinates": [
+      27.608001,
+      65.441362,
+      0.0
+    ],
+    "name": "vt20_Pintamo",
+    "municipality": "Pudasj\u00e4rvi"
+  },
+  "1225": {
+    "coordinates": [
+      26.688639,
+      65.66987,
+      0.0
+    ],
+    "name": "kt78_Pudasj\u00e4rvi",
+    "municipality": "Pudasj\u00e4rvi"
+  },
+  "1226": {
+    "coordinates": [
+      25.535325,
+      64.914518,
+      0.0
+    ],
+    "name": "vt4_Kempele",
+    "municipality": "Kempele"
+  },
+  "1227": {
+    "coordinates": [
+      25.894297,
+      64.856358,
+      0.0
+    ],
+    "name": "vt22_Muhos_Riihikyl\u00e4",
+    "municipality": "Muhos"
+  },
+  "1228": {
+    "coordinates": [
+      25.372514,
+      65.120244,
+      0.0
+    ],
+    "name": "st847_Haukipudas",
+    "municipality": "Oulu"
+  },
+  "1229": {
+    "coordinates": [
+      25.251153,
+      65.533222,
+      0.0
+    ],
+    "name": "vt4_Ii_Myllykangas",
+    "municipality": "Ii"
+  },
+  "1230": {
+    "coordinates": [
+      26.729714,
+      65.265773,
+      0.0
+    ],
+    "name": "vt20_Rankkila",
+    "municipality": "Pudasj\u00e4rvi"
+  },
+  "1231": {
+    "coordinates": [
+      25.429964,
+      65.120506,
+      0.0
+    ],
+    "name": "vt4_Oulu_Kello",
+    "municipality": "Oulu"
+  },
+  "1232": {
+    "coordinates": [
+      27.425284,
+      65.413902,
+      0.0
+    ],
+    "name": "vt20_Kettum\u00e4ki",
+    "municipality": "Pudasj\u00e4rvi"
+  },
+  "1233": {
+    "coordinates": [
+      25.152491,
+      64.455218,
+      0.0
+    ],
+    "name": "kt88_Alpua",
+    "municipality": "Raahe"
+  },
+  "1234": {
+    "coordinates": [
+      29.161443,
+      65.946859,
+      0.0
+    ],
+    "name": "vt5_Toranki",
+    "municipality": "Kuusamo"
+  },
+  "1235": {
+    "coordinates": [
+      25.350434,
+      64.783198,
+      0.0
+    ],
+    "name": "vt8_Lapinkangas",
+    "municipality": "Liminka"
+  },
+  "1236": {
+    "coordinates": [
+      25.509354,
+      64.804166,
+      0.0
+    ],
+    "name": "vt4_Ala-Temmes",
+    "municipality": "Liminka"
+  },
+  "1237": {
+    "coordinates": [
+      25.508377,
+      65.019337,
+      0.0
+    ],
+    "name": "vt4_Oulu_Inti\u00f6",
+    "municipality": "Oulu"
+  },
+  "1238": {
+    "coordinates": [
+      25.462881,
+      65.046788,
+      0.0
+    ],
+    "name": "vt4_Oulu_Isko",
+    "municipality": "Oulu"
+  },
+  "1239": {
+    "coordinates": [
+      25.49017,
+      64.949734,
+      0.0
+    ],
+    "name": "st815_Lentokent\u00e4ntie",
+    "municipality": "Oulu"
+  },
+  "1243": {
+    "coordinates": [
+      25.505382,
+      64.842413,
+      0.0
+    ],
+    "name": "vt4_Luhasto",
+    "municipality": "Liminka"
+  },
+  "1244": {
+    "coordinates": [
+      25.494083,
+      65.032306,
+      0.0
+    ],
+    "name": "vt4_Oulu_Laanila",
+    "municipality": "Oulu"
+  },
+  "1246": {
+    "coordinates": [
+      25.442274,
+      65.071121,
+      0.0
+    ],
+    "name": "vt4_Oulu_Kuivasj\u00e4rvi",
+    "municipality": "Oulu"
+  },
+  "1247": {
+    "coordinates": [
+      25.492182,
+      64.970414,
+      0.0
+    ],
+    "name": "st847_Oulunlahti",
+    "municipality": "Oulu"
+  },
+  "1248": {
+    "coordinates": [
+      25.423416,
+      64.937519,
+      0.0
+    ],
+    "name": "st815_Oulunsalo",
+    "municipality": "Oulu"
+  },
+  "1249": {
+    "coordinates": [
+      25.398064,
+      64.933641,
+      0.0
+    ],
+    "name": "st815_Lunki",
+    "municipality": "Oulu"
+  },
+  "1250": {
+    "coordinates": [
+      25.506412,
+      65.008548,
+      0.0
+    ],
+    "name": "vt4_Oulu_Kontinkangas",
+    "municipality": "Oulu"
+  },
+  "1251": {
+    "coordinates": [
+      25.506002,
+      64.995387,
+      0.0
+    ],
+    "name": "vt4_Oulu_Lintula",
+    "municipality": "Oulu"
+  },
+  "1252": {
+    "coordinates": [
+      30.092822,
+      65.800076,
+      0.0
+    ],
+    "name": "st866_Kuusamo_T",
+    "municipality": "Kuusamo"
+  },
+  "1253": {
+    "coordinates": [
+      25.054259,
+      65.041186,
+      0.0
+    ],
+    "name": "st816_Hailuoto",
+    "municipality": "Hailuoto"
+  },
+  "1254": {
+    "coordinates": [
+      25.607712,
+      65.054793,
+      0.0
+    ],
+    "name": "vt20_Rusko2",
+    "municipality": "Oulu"
+  },
+  "1255": {
+    "coordinates": [
+      24.369767,
+      64.524612,
+      0.0
+    ],
+    "name": "vt8_Hurnasper\u00e4",
+    "municipality": "Raahe"
+  },
+  "1256": {
+    "coordinates": [
+      25.529079,
+      64.994916,
+      0.0
+    ],
+    "name": "vt22_Oulu_Kaukovainio",
+    "municipality": "Oulu"
+  },
+  "1257": {
+    "coordinates": [
+      25.571824,
+      64.978763,
+      0.0
+    ],
+    "name": "vt22_Oulu_Iinatti",
+    "municipality": "Oulu"
+  },
+  "1301": {
+    "coordinates": [
+      28.037973,
+      64.31526,
+      0.0
+    ],
+    "name": "vt5_Kajaani_Mineraali",
+    "municipality": "Kajaani"
+  },
+  "1302": {
+    "coordinates": [
+      28.177557,
+      64.487399,
+      0.0
+    ],
+    "name": "vt5_Ristij\u00e4rvi",
+    "municipality": "Ristij\u00e4rvi"
+  },
+  "1303": {
+    "coordinates": [
+      29.635331,
+      63.997561,
+      0.0
+    ],
+    "name": "kt75_Kankivaara",
+    "municipality": "Kuhmo"
+  },
+  "1321": {
+    "coordinates": [
+      27.405197,
+      63.995736,
+      0.0
+    ],
+    "name": "vt5_Hatulanm\u00e4ki",
+    "municipality": "Kajaani"
+  },
+  "1322": {
+    "coordinates": [
+      27.524666,
+      64.162712,
+      0.0
+    ],
+    "name": "vt5_Nuottij\u00e4rvi",
+    "municipality": "Kajaani"
+  },
+  "1323": {
+    "coordinates": [
+      27.997045,
+      64.142281,
+      0.0
+    ],
+    "name": "vt6_Sotkamo_Korholanm\u00e4ki",
+    "municipality": "Sotkamo"
+  },
+  "1324": {
+    "coordinates": [
+      26.646651,
+      64.605566,
+      0.0
+    ],
+    "name": "vt22_T\u00f6rm\u00e4kyl\u00e4",
+    "municipality": "Vaala"
+  },
+  "1325": {
+    "coordinates": [
+      29.908877,
+      64.496246,
+      0.0
+    ],
+    "name": "kt89_Vartius",
+    "municipality": "Kuhmo"
+  },
+  "1326": {
+    "coordinates": [
+      27.266699,
+      64.111085,
+      0.0
+    ],
+    "name": "vt28_Vuottolahti",
+    "municipality": "Kajaani"
+  },
+  "1327": {
+    "coordinates": [
+      27.713043,
+      65.047852,
+      0.0
+    ],
+    "name": "kt78_Aska",
+    "municipality": "Puolanka"
+  },
+  "1328": {
+    "coordinates": [
+      29.030641,
+      65.362985,
+      0.0
+    ],
+    "name": "vt5_Tapiola",
+    "municipality": "Suomussalmi"
+  },
+  "1329": {
+    "coordinates": [
+      27.956216,
+      64.394333,
+      0.0
+    ],
+    "name": "vt22_Mieslahti",
+    "municipality": "Paltamo"
+  },
+  "1401": {
+    "coordinates": [
+      24.760508,
+      66.080761,
+      0.0
+    ],
+    "name": "vt4_Tervola",
+    "municipality": "Tervola"
+  },
+  "1402": {
+    "coordinates": [
+      27.523849,
+      68.515564,
+      0.0
+    ],
+    "name": "vt4_Ivalo",
+    "municipality": "Inari"
+  },
+  "1403": {
+    "coordinates": [
+      27.451654,
+      66.86155,
+      0.0
+    ],
+    "name": "vt5_Kemij\u00e4rvi_Kentt\u00e4l\u00e4",
+    "municipality": "Kemij\u00e4rvi"
+  },
+  "1404": {
+    "coordinates": [
+      24.462407,
+      65.806811,
+      0.0
+    ],
+    "name": "st921_Kaakamo",
+    "municipality": "Keminmaa"
+  },
+  "1405": {
+    "coordinates": [
+      26.629466,
+      66.678773,
+      0.0
+    ],
+    "name": "kt82_Misi",
+    "municipality": "Rovaniemi"
+  },
+  "1421": {
+    "coordinates": [
+      23.895951,
+      67.227022,
+      0.0
+    ],
+    "name": "vt21_Kolari",
+    "municipality": "Kolari"
+  },
+  "1422": {
+    "coordinates": [
+      25.254241,
+      66.993328,
+      0.0
+    ],
+    "name": "kt79_J\u00e4\u00e4sk\u00f6",
+    "municipality": "Rovaniemi"
+  },
+  "1423": {
+    "coordinates": [
+      27.75097,
+      66.188151,
+      0.0
+    ],
+    "name": "kt81_Per\u00e4posio",
+    "municipality": "Posio"
+  },
+  "1424": {
+    "coordinates": [
+      26.076851,
+      66.600396,
+      0.0
+    ],
+    "name": "vt4_Olkkaj\u00e4rvi",
+    "municipality": "Rovaniemi"
+  },
+  "1425": {
+    "coordinates": [
+      26.252369,
+      66.15926,
+      0.0
+    ],
+    "name": "kt78_Saukkokangas",
+    "municipality": "Ranua"
+  },
+  "1426": {
+    "coordinates": [
+      28.113813,
+      66.550979,
+      0.0
+    ],
+    "name": "vt5_Suomu",
+    "municipality": "Kemij\u00e4rvi"
+  },
+  "1427": {
+    "coordinates": [
+      24.848527,
+      66.639587,
+      0.0
+    ],
+    "name": "kt83_Raanuj\u00e4rvi",
+    "municipality": "Ylitornio"
+  },
+  "1429": {
+    "coordinates": [
+      28.472525,
+      68.476006,
+      0.0
+    ],
+    "name": "kt91_Rajajooseppi",
+    "municipality": "Inari"
+  },
+  "1430": {
+    "coordinates": [
+      29.033167,
+      66.943722,
+      0.0
+    ],
+    "name": "kt82_Salla_Kelloselk\u00e4",
+    "municipality": "Salla"
+  },
+  "1431": {
+    "coordinates": [
+      24.146169,
+      65.841331,
+      0.0
+    ],
+    "name": "vt29_Tornio",
+    "municipality": "Tornio"
+  },
+  "1432": {
+    "coordinates": [
+      23.688378,
+      66.378874,
+      0.0
+    ],
+    "name": "kt98_Aavasaksa",
+    "municipality": "Ylitornio"
+  },
+  "1433": {
+    "coordinates": [
+      23.986233,
+      66.801136,
+      0.0
+    ],
+    "name": "st937_Pello",
+    "municipality": "Pello"
+  },
+  "1434": {
+    "coordinates": [
+      23.748756,
+      67.3114,
+      0.0
+    ],
+    "name": "st943_Kolari",
+    "municipality": "Kolari"
+  },
+  "1435": {
+    "coordinates": [
+      23.665253,
+      67.939449,
+      0.0
+    ],
+    "name": "st954_Muonio",
+    "municipality": "Muonio"
+  },
+  "1436": {
+    "coordinates": [
+      22.476785,
+      68.44367,
+      0.0
+    ],
+    "name": "st959_Karesuvanto",
+    "municipality": "Enonteki\u00f6"
+  },
+  "1437": {
+    "coordinates": [
+      24.529134,
+      65.790748,
+      0.0
+    ],
+    "name": "vt4_mp3_Jokisuu",
+    "municipality": "Keminmaa"
+  },
+  "1438": {
+    "coordinates": [
+      24.521032,
+      65.794495,
+      0.0
+    ],
+    "name": "vt4_mp2_Jokisuu",
+    "municipality": "Keminmaa"
+  },
+  "1439": {
+    "coordinates": [
+      24.394622,
+      65.826223,
+      0.0
+    ],
+    "name": "vt29_Tornio_Luukkaankangas",
+    "municipality": "Tornio"
+  },
+  "1441": {
+    "coordinates": [
+      24.204948,
+      65.840493,
+      0.0
+    ],
+    "name": "vt29_Tornio_Torppi",
+    "municipality": "Tornio"
+  },
+  "1442": {
+    "coordinates": [
+      29.11538,
+      69.66844,
+      0.0
+    ],
+    "name": "kt92_N\u00e4\u00e4t\u00e4m\u00f6",
+    "municipality": "Inari"
+  },
+  "1443": {
+    "coordinates": [
+      27.960647,
+      70.088659,
+      0.0
+    ],
+    "name": "st970_Nuorgam",
+    "municipality": "Utsjoki"
+  },
+  "1444": {
+    "coordinates": [
+      27.030076,
+      69.90983,
+      0.0
+    ],
+    "name": "vt4_Utsjoki",
+    "municipality": "Utsjoki"
+  },
+  "1445": {
+    "coordinates": [
+      25.845486,
+      69.398291,
+      0.0
+    ],
+    "name": "kt92_Karigasniemi",
+    "municipality": "Utsjoki"
+  },
+  "1446": {
+    "coordinates": [
+      23.321537,
+      68.662024,
+      0.0
+    ],
+    "name": "kt93_Kivilompolo",
+    "municipality": "Enonteki\u00f6"
+  },
+  "1447": {
+    "coordinates": [
+      20.763701,
+      69.070682,
+      0.0
+    ],
+    "name": "vt21_Kilpisj\u00e4rvi_T",
+    "municipality": "Enonteki\u00f6"
+  },
+  "1448": {
+    "coordinates": [
+      26.641632,
+      67.186298,
+      0.0
+    ],
+    "name": "vt4_Torvinen",
+    "municipality": "Sodankyl\u00e4"
+  },
+  "1449": {
+    "coordinates": [
+      26.757701,
+      67.734913,
+      0.0
+    ],
+    "name": "vt4_Yl\u00e4postojoki",
+    "municipality": "Sodankyl\u00e4"
+  },
+  "1450": {
+    "coordinates": [
+      25.725824,
+      66.503881,
+      0.0
+    ],
+    "name": "vt4_Rovaniemi_Revontuli",
+    "municipality": "Rovaniemi"
+  },
+  "1451": {
+    "coordinates": [
+      25.578162,
+      66.45307,
+      0.0
+    ],
+    "name": "vt4_Ala-Korkalo",
+    "municipality": "Rovaniemi"
+  },
+  "1452": {
+    "coordinates": [
+      24.685796,
+      65.69221,
+      0.0
+    ],
+    "name": "vt4_Marostenm\u00e4ki",
+    "municipality": "Kemi"
+  },
+  "1453": {
+    "coordinates": [
+      24.626502,
+      65.711237,
+      0.0
+    ],
+    "name": "vt4_Siikalahti",
+    "municipality": "Kemi"
+  },
+  "1454": {
+    "coordinates": [
+      24.593543,
+      65.727615,
+      0.0
+    ],
+    "name": "vt4_Peurasaari",
+    "municipality": "Kemi"
+  },
+  "1455": {
+    "coordinates": [
+      24.587776,
+      65.739392,
+      0.0
+    ],
+    "name": "vt4_Karjalahti",
+    "municipality": "Kemi"
+  },
+  "1456": {
+    "coordinates": [
+      24.573752,
+      65.752546,
+      0.0
+    ],
+    "name": "vt4_Kivikko",
+    "municipality": "Kemi"
+  },
+  "1457": {
+    "coordinates": [
+      24.571985,
+      65.762976,
+      0.0
+    ],
+    "name": "vt4_Ristikangas",
+    "municipality": "Kemi"
+  },
+  "1458": {
+    "coordinates": [
+      24.166525,
+      65.871573,
+      0.0
+    ],
+    "name": "vt21_Tornio",
+    "municipality": "Tornio"
+  },
+  "1459": {
+    "coordinates": [
+      23.695734,
+      66.365037,
+      0.0
+    ],
+    "name": "vt21_Ylitornio",
+    "municipality": "Ylitornio"
+  },
+  "1460": {
+    "coordinates": [
+      25.664329,
+      66.534674,
+      0.0
+    ],
+    "name": "kt79_Ylikyl\u00e4",
+    "municipality": "Rovaniemi"
+  },
+  "1461": {
+    "coordinates": [
+      25.874691,
+      66.518337,
+      0.0
+    ],
+    "name": "kt81_Vaarala",
+    "municipality": "Rovaniemi"
+  },
+  "1462": {
+    "coordinates": [
+      24.862719,
+      67.697206,
+      0.0
+    ],
+    "name": "kt79_Yli-Kittil\u00e4",
+    "municipality": "Kittil\u00e4"
+  },
+  "1463": {
+    "coordinates": [
+      27.475598,
+      66.715658,
+      0.0
+    ],
+    "name": "vt5_Kemij\u00e4rvi_Sipovaara",
+    "municipality": "Kemij\u00e4rvi"
+  },
+  "1464": {
+    "coordinates": [
+      25.698494,
+      66.490835,
+      0.0
+    ],
+    "name": "vt4_Oijustie",
+    "municipality": "Rovaniemi"
+  },
+  "1465": {
+    "coordinates": [
+      25.714153,
+      66.496536,
+      0.0
+    ],
+    "name": "vt4_Vapaudentie",
+    "municipality": "Rovaniemi"
+  },
+  "1466": {
+    "coordinates": [
+      25.767627,
+      66.531851,
+      0.0
+    ],
+    "name": "vt4_Syv\u00e4senvaara",
+    "municipality": "Rovaniemi"
+  },
+  "1467": {
+    "coordinates": [
+      25.744643,
+      66.480624,
+      0.0
+    ],
+    "name": "kt78_P\u00f6ykk\u00f6l\u00e4",
+    "municipality": "Rovaniemi"
+  },
+  "1468": {
+    "coordinates": [
+      23.632721,
+      67.911098,
+      0.0
+    ],
+    "name": "vt21_Muonio_Pahtonen",
+    "municipality": "Muonio"
+  },
+  "1601": {
+    "coordinates": [
+      23.37876,
+      60.372404,
+      0.0
+    ],
+    "name": "vt1_Lakiam\u00e4ki",
+    "municipality": "Salo"
+  },
+  "1602": {
+    "coordinates": [
+      23.473695,
+      60.380726,
+      0.0
+    ],
+    "name": "vt1_Kruusila",
+    "municipality": "Salo"
+  },
+  "1603": {
+    "coordinates": [
+      23.631862,
+      60.378167,
+      0.0
+    ],
+    "name": "vt1_Syv\u00e4lampi",
+    "municipality": "Salo"
+  },
+  "1604": {
+    "coordinates": [
+      23.725723,
+      60.37636,
+      0.0
+    ],
+    "name": "vt1_Lahnaj\u00e4rvi",
+    "municipality": "Salo"
+  },
+  "1605": {
+    "coordinates": [
+      23.872018,
+      60.366762,
+      0.0
+    ],
+    "name": "vt1_Hauklampi",
+    "municipality": "Lohja"
+  },
+  "1606": {
+    "coordinates": [
+      23.94903,
+      60.325108,
+      0.0
+    ],
+    "name": "vt1_Pitk\u00e4m\u00e4ki",
+    "municipality": "Lohja"
+  },
+  "1607": {
+    "coordinates": [
+      24.079464,
+      60.289063,
+      0.0
+    ],
+    "name": "vt1_Karnainen",
+    "municipality": "Lohja"
+  }
+}
