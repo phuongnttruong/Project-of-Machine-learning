@@ -33,3 +33,53 @@ Tulostiedosto on puolipistein eroteltu CSV â€“tiedosto, jossa on seuraavat kentÃ
 ## src
 
 - fetch_digitraffic_data.py: File for fetching traffic data (19GB for year 2021)
+
+
+Inputs for the model:
+Delivery start location (lat, lon)
+Delivery end location(lat, lon)
+Day of the week
+Month of the year
+time of the day (5 minute interval)
+Delivery estimate
+average traffic speed  (average for that 5 minute period from the closest traffic points)
+average number of cars (average for that 5 minute period from the closest traffic points)
+Item count in the order
+CLOUD_COVERAGE
+TEMPERATURE
+WIND_SPEED
+PRECIPITATION
+
+
+Output for the model:
+Actual delivery time
+
+
+
+TODO:
+
+Edu - Document the downloaded and processed data
+- Impute the missing values to the traffic data.
+- Look at the data (Visualizations?)
+- Make one dataframe that has the delivery dates and traffic data of the same time period joined.
+- Create the model that predicts delivery time from the other data
+
+- Update the web app so that you can enter the location of your home and the restaurant
+- Show our estimate to the user
+  
+(- Calculate some statistics on where and when the deliveries are on time or late and show these on map.)
+
+
+Report TODO:
+- Document methods used
+- Document data sued and how it was processed
+- Check if our results are any better than Wolt estimates
+- Conclusions?
+
+- what worked?
+- What didn't (and why)?
+- What changes did you have to make from your initial plan and why?
+- What would you have done differently now? What would possible future steps be?
+
+
+
