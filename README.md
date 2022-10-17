@@ -36,8 +36,15 @@ Tulostiedosto on puolipistein eroteltu CSV â€“tiedosto, jossa on seuraavat kentÃ
 
 
 Inputs for the model:
-Delivery start location (lat, lon)
-Delivery end location(lat, lon)
+Delivery start location lat
+Delivery start location lon
+Length of the delivery trip
+
+Delivery end location lat
+Delivery end location lon
+or
+Direction of the delivery?
+
 Day of the week
 Month of the year
 time of the day (5 minute interval)
