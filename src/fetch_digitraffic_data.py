@@ -2,16 +2,9 @@
 # https://vayla.fi/vaylista/aineistot/avoindata/tiestotiedot/lam-tiedot
 
 import requests
+from constants import *
 
 LAM_RAW_DATA_URL = "https://aineistot.vayla.fi/lam/rawdata/20{year}/{ely}/lamraw_{lam_id}_{year}_{day_number}.csv"
-
-# Digitraffic measurement points located in Helsinki
-LAM_IDS = [
-    "11","101",
-    "109","117","119","126","131","145","146","147","148","149","151",
-    "152","153","154","155","164","165","172","195","196","197",
-]
-YEARS = ["21"]
 
 headers = {"Digitraffic-User": "ds-project-app"}
 
@@ -30,5 +23,5 @@ for lam_id in LAM_IDS:
                 ),
                 headers=headers
             )
-            with open(f"../data/digitraffic/raw_traffic_data_{lam_id}_{year}_{day}.csv", "w") as f:
+            with open(f"{DIGITRAFFIC_DATA_DIR}/raw_traffic_data_{lam_id}_{year}_{day}.csv", "w") as f:
                 f.write(r.text)

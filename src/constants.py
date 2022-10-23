@@ -1,4 +1,6 @@
-DIGITRAFFIC_DATA_DIR = "../data/digitraffic"
+import os
+
+DIGITRAFFIC_DATA_DIR = os.path.dirname(os.path.realpath(__file__)) + "/../data/digitraffic"
 
 BIN_SIZE_MINUTES = 5
 
@@ -7,7 +9,7 @@ LAM_IDS = [
     "109", "117", "119", "126", "131", "145", "146", "147", "148", "149", "151",
     "152", "153", "154", "155", "164", "165", "172", "195", "196", "197",
 ]
-YEARS = ["21"]
+YEARS = ["20"]
 
 COLUMN_NAMES = [
     "location_id",
