@@ -29,3 +29,5 @@ COLUMN_NAMES = [
     "time_diff",
     "queue_start"
 ]
+
+HEADERS = {"Digitraffic-User": "ds-project-app"}

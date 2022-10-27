@@ -6,8 +6,6 @@ from constants import *
 
 LAM_RAW_DATA_URL = "https://aineistot.vayla.fi/lam/rawdata/20{year}/{ely}/lamraw_{lam_id}_{year}_{day_number}.csv"
 
-headers = {"Digitraffic-User": "ds-project-app"}
-
 print(f"Fetching {len(LAM_IDS)} measurement points' data")
 
 for lam_id in LAM_IDS:
@@ -21,7 +19,7 @@ for lam_id in LAM_IDS:
                     lam_id=lam_id,
                     day_number=str(day)
                 ),
-                headers=headers
+                headers=HEADERS
             )
             with open(f"{DIGITRAFFIC_DATA_DIR}/raw_traffic_data_{lam_id}_{year}_{day}.csv", "w") as f:
                 f.write(r.text)
