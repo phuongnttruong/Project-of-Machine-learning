@@ -1,3 +1,7 @@
 folium
 pytz
 web.py
+networkx
+pyrosm
+osmnx
+scikit-learn
