@@ -24,7 +24,7 @@ for lam_id in LAM_IDS:
                 df = df.where(df.faulty == 0)
 
                 # Divide the measurements to bins of size BIN_SIZE_MINUTES
-                df["bin"] = np.floor((df["hour"] * 60 + df["minute"]) / BIN_SIZE_MINUTES)
+                df["bin_number"] = np.floor((df["hour"] * 60 + df["minute"]) / BIN_SIZE_MINUTES)
 
                 df = df.drop(
                     columns=[
@@ -33,13 +33,13 @@ for lam_id in LAM_IDS:
                     ]
                 )
 
-                grouped = df.groupby(["bin"])
+                grouped = df.groupby(["bin_number"])
 
                 aggregates = grouped.agg(
                     location_id=pd.NamedAgg(column="location_id", aggfunc="first"),
                     day_number=pd.NamedAgg(column="day_number", aggfunc="first"),
                     avg_speed=pd.NamedAgg(column="speed", aggfunc="mean"),
-                    vehicle_count=pd.NamedAgg(column="bin", aggfunc="count")
+                    vehicle_count=pd.NamedAgg(column="bin_number", aggfunc="count")
                 )
 
                 # Make sure that each day has all the bins, even if there were no events for that period.
