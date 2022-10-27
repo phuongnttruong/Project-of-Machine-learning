@@ -6,8 +6,6 @@ import requests
 import folium
 import json
 
-import numpy as np
-import pytz
 import statistics
 import web
 import pandas as pd
@@ -17,7 +15,7 @@ HELSINKI_TZ = "Europe/Helsinki"
 
 REAL_TIME_TRAFFIC_URL = "https://tie.digitraffic.fi/api/v1/data/tms-data"
 
-# Load all traffic data for 2021
+# Load all traffic data for 2020
 file_list = glob.glob(f"{DIGITRAFFIC_DATA_DIR}/traffic_averages_*.csv")
 traffic_data = pd.concat((pd.read_csv(f) for f in file_list), ignore_index=True)
 avg_speeds = traffic_data.groupby("location_id").median().get("avg_speed").to_dict()
@@ -43,14 +41,6 @@ urls = (
 web.config.debug = True
 
 
-def get_day_number(now):
-    return  now.timetuple().tm_yday
-
-
-def get_bin_number(now):
-    return now.hour * 12 + (now.minute // 5) * 5
-
-
 def get_latest_traffic():
     current_traffic = {}
     r = requests.get(REAL_TIME_TRAFFIC_URL, headers=HEADERS)
@@ -59,6 +49,7 @@ def get_latest_traffic():
         if station_id in station_ids:
             current_traffic[station_id] = item
     return current_traffic
+
 
 def get_initial_params():
     latitudes = []
