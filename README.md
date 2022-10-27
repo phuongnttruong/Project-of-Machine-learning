@@ -79,7 +79,7 @@ TODO:
 DONE - Document the downloaded and processed data
 - Impute the missing values to the traffic data.
 - Look at the data (Visualizations?)
-- Make one dataframe that has the delivery dates and traffic data of the same time period joined.
+Started - Make one dataframe that has the delivery dates and traffic data of the same time period joined.
 - Create the model that predicts delivery time from the other data
 
 - Update the web app so that you can enter the location of your home and the restaurant

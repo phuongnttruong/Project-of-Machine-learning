@@ -16,7 +16,7 @@ for lam_id in LAM_IDS:
                         dtype=float,
                         names=COLUMN_NAMES
                     )
-                except (FileNotFoundError, pd.errors.EmptyDataError):
+                except (FileNotFoundError, pd.errors.EmptyDataError, ValueError):
                     print(f"Missing file raw_traffic_data_{lam_id}_{year}_{day}.csv")
                     df = pd.DataFrame(columns=COLUMN_NAMES)
 
