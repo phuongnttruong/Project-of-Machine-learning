@@ -1,6 +1,7 @@
 import os
 
-DIGITRAFFIC_DATA_DIR = os.path.dirname(os.path.realpath(__file__)) + "/../data/digitraffic"
+DATA_DIR = os.path.dirname(os.path.realpath(__file__)) + "/../data"
+DIGITRAFFIC_DATA_DIR = DATA_DIR + "/digitraffic"
 
 BIN_SIZE_MINUTES = 5
 
