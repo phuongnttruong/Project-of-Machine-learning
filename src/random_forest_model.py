@@ -1,3 +1,5 @@
+import pickle
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -30,3 +32,6 @@ print(f"Original Mean Absolute Error: {np.mean(orig_errors)}, Standard deviation
 
 errors = abs(y_test - predictions)["ACTUAL_DELIVERY_MINUTES"]
 print(f"Model's Mean Absolute Error: {np.mean(errors)}, Standard deviation: {np.std(errors)}")
+
+with open("random_forest.model", "wb") as f:
+    pickle.dump(rf, f)
