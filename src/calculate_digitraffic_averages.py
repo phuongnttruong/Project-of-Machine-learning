@@ -24,7 +24,7 @@ for lam_id in LAM_IDS:
                 df = df.where(df.faulty == 0)
 
                 # Divide the measurements to bins of size BIN_SIZE_MINUTES
-                df["bin_number"] = np.floor((df["hour"] * 60 + df["minute"]) / BIN_SIZE_MINUTES)
+                df["bin_n"] = np.floor((df["hour"] * 60 + df["minute"]) / BIN_SIZE_MINUTES)
 
                 df = df.drop(
                     columns=[
@@ -33,17 +33,26 @@ for lam_id in LAM_IDS:
                     ]
                 )
 
-                grouped = df.groupby(["bin_number"])
+                grouped = df.groupby(["bin_n"])
 
                 aggregates = grouped.agg(
-                    location_id=pd.NamedAgg(column="location_id", aggfunc="first"),
-                    day_number=pd.NamedAgg(column="day_number", aggfunc="first"),
+                    loc_id=pd.NamedAgg(column="location_id", aggfunc="first"),
+                    day_n=pd.NamedAgg(column="day_number", aggfunc="first"),
                     avg_speed=pd.NamedAgg(column="speed", aggfunc="mean"),
-                    vehicle_count=pd.NamedAgg(column="bin_number", aggfunc="count")
+                    vehicle_count=pd.NamedAgg(column="bin_n", aggfunc="count")
                 )
 
                 # Make sure that each day has all the bins, even if there were no events for that period.
                 aggregates = aggregates.reindex(index=np.arange(0, 24*60/BIN_SIZE_MINUTES))
+
+                aggregates = aggregates.dropna()
+
+                # Create string indices
+                aggregates.index = aggregates.index.map(int).map(str)
+                aggregates.index.names = ['bin_number']
+                aggregates["day_number"] = aggregates["day_n"].apply(int).apply(str)
+                aggregates["location_id"] = aggregates["loc_id"].apply(int).apply(str)
+                aggregates = aggregates.drop(columns=["day_n", "loc_id"])
 
                 if day == 1:
                     aggregates.to_csv(year_file)

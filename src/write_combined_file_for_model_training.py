@@ -20,8 +20,11 @@ def calculate_shortest_path(x1, y1, x2, y2):
 
 # Load all traffic data for 2020
 file_list = glob.glob(f"{DIGITRAFFIC_DATA_DIR}/traffic_averages_*.csv")
-traffic_data = pd.concat((pd.read_csv(f) for f in file_list), ignore_index=True)
-#traffic_data = {str(int(x)): traffic_data[x] for x in traffic_data}
+traffic_data = pd.concat((pd.read_csv(
+    f,
+    dtype={'bin_number': str, 'avg_speed': float, 'vehicle_count': int, 'day_number': str, 'location_id': str}) for f in file_list),
+    ignore_index=True
+)
 print(traffic_data)
 avg_speeds = traffic_data.groupby("location_id").median().get("avg_speed").to_dict()
 avg_speeds = {str(int(x)): avg_speeds[x] for x in avg_speeds}
@@ -44,26 +47,29 @@ all_data["WEEK_DAY"] = all_data["TIMESTAMP"].apply(get_week_day)
 
 
 # TODO: Failing for some reason to fetch avg_speeds.
-## Add traffic data
-#def get_avg_traffic_speed(x, y, bin_number, day_number):
-#    # TODO: Search three closest measurement points and calculate average.
-#    #  Now just hard-coded to return station 101 values.
-#    return traffic_data.loc[
-#        (traffic_data["bin_number"] == bin_number) &
-#        (traffic_data["day_number"] == day_number) &
-#        (traffic_data["location_id"] == "101")
-#    ]["avg_speed"]
-#
-#
-#all_data["avg_traffic_speed"] = all_data.apply(
-#    lambda x: get_avg_traffic_speed(
-#        x["VENUE_LAT"],
-#        x["VENUE_LONG"],
-#        x["BIN_NUMBER"],
-#        x["DAY_NUMBER"]
-#    ),
-#    axis=1
-#)
+# Add traffic data
+def get_avg_traffic_speed(x, y, bin_number, day_number):
+    # TODO: Search three closest measurement points and calculate average.
+    #  Now just hard-coded to return station 101 values.
+#    print(f"Process: {x}, {y}, {bin_number}, {day_number}")
+    a = traffic_data.loc[
+        (traffic_data["bin_number"] == bin_number) &
+        (traffic_data["day_number"] == day_number) &
+        (traffic_data["location_id"] == "101")
+    ]["avg_speed"]
+#    print(a.dtype)
+    return a
+
+
+all_data["avg_traffic_speed"] = all_data.apply(
+    lambda x: get_avg_traffic_speed(
+        x["VENUE_LAT"],
+        x["VENUE_LONG"],
+        x["BIN_NUMBER"],
+        x["DAY_NUMBER"]
+    ),
+    axis=1
+)
 
 print(all_data)
 

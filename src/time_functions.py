@@ -5,12 +5,12 @@ TIMESTAMP_FORMAT = "%Y-%m-%d %H:%M:%S.%f"
 
 def get_day_number(timestamp):
     ts = datetime.strptime(timestamp, TIMESTAMP_FORMAT)
-    return float(ts.timetuple().tm_yday)
+    return str(int(ts.timetuple().tm_yday))
 
 
 def get_bin_number(timestamp):
     ts = datetime.strptime(timestamp, TIMESTAMP_FORMAT)
-    return float(ts.hour * 12 + ts.minute // 5)
+    return str(int(ts.hour * 12 + ts.minute // 5))
 
 
 def get_week_day(timestamp):
