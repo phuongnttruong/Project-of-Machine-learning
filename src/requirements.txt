@@ -6,3 +6,5 @@ pyrosm
 osmnx
 scikit-learn
 geopy
+seaborn
+matplotlib
