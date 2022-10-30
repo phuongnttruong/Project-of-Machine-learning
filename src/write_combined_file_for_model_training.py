@@ -1,11 +1,14 @@
 import glob
+import json
 
+import numpy as np
 import pandas as pd
 from constants import *
 import networkx as nx
 from pyrosm import OSM, get_data
 from time_functions import get_bin_number, get_week_day, get_month, get_day_number
 import osmnx as ox
+import geopy.distance
 
 osm = OSM(get_data("helsinki_pbf"))
 nodes, edges = osm.get_network(nodes=True)
@@ -18,6 +21,12 @@ def calculate_shortest_path(x1, y1, x2, y2):
     return nx.shortest_path_length(G, source, destination, weight="length")
 
 
+# Load station data for the stations for which we have traffic data.
+with open(f"{DIGITRAFFIC_DATA_DIR}/station_data.json") as f:
+    all_stations = json.loads(f.read())
+station_data = {x: all_stations[x] for x in LAM_IDS if x in all_stations.keys()}
+print(station_data)
+
 # Load all traffic data for 2020
 file_list = glob.glob(f"{DIGITRAFFIC_DATA_DIR}/traffic_averages_*.csv")
 traffic_data = pd.concat((pd.read_csv(
@@ -27,9 +36,10 @@ traffic_data = pd.concat((pd.read_csv(
 )
 print(traffic_data)
 avg_speeds = traffic_data.groupby("location_id").median().get("avg_speed").to_dict()
-avg_speeds = {str(int(x)): avg_speeds[x] for x in avg_speeds}
+print(avg_speeds)
 
 all_data = pd.read_csv(os.path.dirname(os.path.realpath(__file__)) + "/../orders_autumn_2020.csv")
+all_data = all_data.drop(columns=["ACTUAL_DELIVERY_MINUTES - ESTIMATED_DELIVERY_MINUTES"])
 
 # TODO: This fails to NodeNotFound error
 # all_data["DELIVERY_LENGTH"] = calculate_shortest_path(
@@ -46,29 +56,37 @@ all_data["DAY_NUMBER"] = all_data["TIMESTAMP"].apply(get_day_number)
 all_data["WEEK_DAY"] = all_data["TIMESTAMP"].apply(get_week_day)
 
 
-# TODO: Failing for some reason to fetch avg_speeds.
-# Add traffic data
+#all_data = all_data[0:100]
+
+
+def get_closest_traffic_station(x, y):
+    closest = '11'
+    shortest = 9999999.0
+    for k, v in station_data.items():
+        dist = geopy.distance.geodesic((y, x), (v['coordinates'][0], v['coordinates'][1]))
+        if dist < shortest:
+            closest = k,
+            shortest = dist
+    return closest[0]
+
+
 def get_avg_traffic_speed(x, y, bin_number, day_number):
     # TODO: Search three closest measurement points and calculate average.
     #  Now just hard-coded to return station 101 values.
-#    print(f"Process: {x}, {y}, {bin_number}, {day_number}")
+    closest = get_closest_traffic_station(x, y)
     a = traffic_data.loc[
         (traffic_data["bin_number"] == bin_number) &
         (traffic_data["day_number"] == day_number) &
-        (traffic_data["location_id"] == "101")
+        (traffic_data["location_id"] == closest)
     ]["avg_speed"]
-#    print(a.dtype)
     return a
 
 
-all_data["avg_traffic_speed"] = all_data.apply(
-    lambda x: get_avg_traffic_speed(
-        x["VENUE_LAT"],
-        x["VENUE_LONG"],
-        x["BIN_NUMBER"],
-        x["DAY_NUMBER"]
-    ),
-    axis=1
+all_data["avg_traffic_speed"] = np.vectorize(get_avg_traffic_speed)(
+    all_data["VENUE_LAT"],
+    all_data["VENUE_LONG"],
+    all_data["BIN_NUMBER"],
+    all_data["DAY_NUMBER"]
 )
 
 print(all_data)
