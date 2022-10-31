@@ -9,13 +9,13 @@ from constants import *
 
 SOURCE_FILE_DATE = "2022-10-30-15-30-30"
 
-with open(f"{DATA_DIR}/combined_data_{SOURCE_FILE_DATE}.csv", "r") as combined_data:
+with open(f"{DATA_DIR}/final_data.csv", "r") as combined_data:
     df = pd.read_csv(combined_data, index_col=0)
 
 df = df.dropna()
 
 y =  pd.DataFrame(df, columns=["ACTUAL_DELIVERY_MINUTES"]).reset_index()
-df = df.drop(columns=["TIMESTAMP", "ACTUAL_DELIVERY_MINUTES"])
+df = df.drop(columns=["Unnamed: 0", "TIMESTAMP", "ACTUAL_DELIVERY_MINUTES"])
 df = df.reset_index()
 
 x_train, x_test, y_train, y_test = train_test_split(df, y, test_size=0.1, random_state=10)

@@ -34,8 +34,8 @@ with open(f"{DIGITRAFFIC_DATA_DIR}/station_data.json") as f:
 station_data = {x: all_stations[x] for x in station_ids if x in all_stations.keys()}
 #print(station_data)
 
-with open("random_forest.model", "wb") as f:
-    rf = pickle.load(f)
+#with open("random_forest.model", "wb") as f:
+#    rf = pickle.load(f)
 
 base_color = 1.0
 
