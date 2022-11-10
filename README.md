@@ -28,26 +28,6 @@ field descriptions:
 - fetch_digitraffic_data.py: File for fetching traffic data (19GB for year 2021)
 
 
-### Analysis steps:
-I can devide this final assignment to 3 main steps:
-1) Fetching data:
-+ Using panda to read txt file
-+ Using open street map to restreive the shortest path
-+ Using request to webcraping data
-
-2) Analyze the data
-Using Open Street,  Map packages to analyze the distance and population of each health station
-
-3) Visualization
-+ Using folium to build the interactive map
-+ Using mapplotlib to plot and analyze the data
-
-### Analysis steps:
-I can devide this final assignment to 3 main steps:
-1) Fetching data:
-+ Using panda to read txt file
-+ Using open street map to restreive the shortest path
-+ Using request to webcraping data
 
 
 
