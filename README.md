@@ -1,4 +1,4 @@
-# Intro_to_DS_project
+# Final project for machine learning
 
 
 ## Report
