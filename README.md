@@ -1,33 +1,15 @@
 # Final project for machine learning
 
-
-## Report
-https://docs.google.com/document/d/1wc7nV0eLDa1LZVALbDHhM_T3baqWq5M58YY0rBG-0QQ/edit?usp=sharing
+When placing an order on a delivery application like Wolt or Foodora, it is quite easy to understand that customers want their food to reach their home as soon as possible. With the help of Google Maps or Open Street Map, the delivery companies can estimate the delivery time based on coordinates between customer and the revenue, however, the actual delivery time is affected by many factors besides the distance between two points, and it is not straightforward to estimate. We aim to predict the actual delivery time based on the estimated time given by Wolt and evaluate if the delivery time is affected by the date of orders. 
 
 ## Data
 
 ### digitraffic
+
 https://vayla.fi/vaylista/aineistot/avoindata/tiestotiedot/lam-tiedot
 
 #### Raw data
-Tulostiedoston kuvaus
-Tulostiedosto on puolipistein eroteltu CSV –tiedosto, jossa on seuraavat kentät. (mittayksikkö suluissa) Kellonaika on Suomen aika, eli EET, tai kesäaikana EEST.
-    pistetunnus
-    vuosi
-    päivän järjestysnumero
-    tunti
-    minuutti
-    sekunti
-    sadasosasekunti
-    pituus (m)
-    kaista
-    suunta
-    ajoneuvoluokka
-    nopeus (km/h)
-    faulty (0 = validi havainto, 1=virheellinen havainto)
-    kokonaisaika (tekninen)
-    aikaväli (tekninen)
-    jonoalku (tekninen)
+
 
 #### Average data (traffic_averages_xx.csv)
 
@@ -46,58 +28,30 @@ field descriptions:
 - fetch_digitraffic_data.py: File for fetching traffic data (19GB for year 2021)
 
 
-Inputs for the model:
-Delivery start location lat
-Delivery start location lon
-Length of the delivery trip
+### Analysis steps:
+I can devide this final assignment to 3 main steps:
+1) Fetching data:
++ Using panda to read txt file
++ Using open street map to restreive the shortest path
++ Using request to webcraping data
 
-Delivery end location lat
-Delivery end location lon
-or
-Direction of the delivery?
+2) Analyze the data
+Using Open Street,  Map packages to analyze the distance and population of each health station
 
-Day of the week
-Month of the year
-time of the day (5 minute interval)
-Delivery estimate
-average traffic speed  (average for that 5 minute period from the closest traffic points)
-average number of cars (average for that 5 minute period from the closest traffic points)
-Item count in the order
-CLOUD_COVERAGE
-TEMPERATURE
-WIND_SPEED
-PRECIPITATION
+3) Visualization
++ Using folium to build the interactive map
++ Using mapplotlib to plot and analyze the data
 
-
-Output for the model:
-Actual delivery time
+### Analysis steps:
+I can devide this final assignment to 3 main steps:
+1) Fetching data:
++ Using panda to read txt file
++ Using open street map to restreive the shortest path
++ Using request to webcraping data
 
 
 
-TODO:
 
-DONE - Document the downloaded and processed data
-- Impute the missing values to the traffic data.
-- Look at the data (Visualizations?)
-Started - Make one dataframe that has the delivery dates and traffic data of the same time period joined.
-- Create the model that predicts delivery time from the other data
-
-- Update the web app so that you can enter the location of your home and the restaurant
-- Show our estimate to the user
-  
-(- Calculate some statistics on where and when the deliveries are on time or late and show these on map.)
-
-
-Report TODO:
-- Document methods used
-- Document data sued and how it was processed
-- Check if our results are any better than Wolt estimates
-- Conclusions?
-
-- what worked?
-- What didn't (and why)?
-- What changes did you have to make from your initial plan and why?
-- What would you have done differently now? What would possible future steps be?
 
 
 
